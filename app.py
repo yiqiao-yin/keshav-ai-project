@@ -1,5 +1,6 @@
 import openai
 import pandas as pd
+from scipy.spatial.distance import cosine
 import streamlit as st
 
 from langchain.agents import load_tools
@@ -131,6 +132,7 @@ ref_from_internet = call_langchain(question)
 
 engineered_prompt = f"""
     Based on the context: {ref_from_internet},
+    and also based on the context: {qa_pairs}.
     answer the user question: {question}
 """
 

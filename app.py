@@ -56,6 +56,21 @@ def call_langchain(prompt: str) -> str:
 
     return output
 
+def add_dist_score_column(
+    dataframe: pd.DataFrame, sentence: str,
+) -> pd.DataFrame:
+    dataframe["stsopenai"] = dataframe["questions"].apply(
+            lambda x: calculate_sts_openai_score(str(x), sentence)
+    )
+    
+    sorted_dataframe = dataframe.sort_values(by="stsopenai", ascending=False)
+
+    return sorted_dataframe.iloc[:5, :]
+
+
+
+
+
 question = st.text_input('Input a question', 'Tell me a joke.')
 ref_from_internet = call_langchain(question)
 st.write(ref_from_internet)

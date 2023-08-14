@@ -1,6 +1,7 @@
 import openai
 import pandas as pd
 from typing import Dict, List, Union
+import numpy as np
 from scipy.spatial.distance import cosine
 import streamlit as st
 

@@ -325,12 +325,13 @@ if prompt := st.chat_input("Tell me about YSA"):
     """
 
     answer = call_chatgpt(engineered_prompt)
-
     response = answer
+
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
-        st.markdown(response)
-        st.success("Please see reference below:")
-        st.table(docs_2_table)
+        with st.spinner('Wait for it...'):
+            st.markdown(response)
+            with st.expander("See reference:"):
+                st.table(docs_2_table)
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})

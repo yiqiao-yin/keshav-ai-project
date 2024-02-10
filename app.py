@@ -292,7 +292,7 @@ all_documents = [] # this is just a copy, you don't have to use this
 
 # Iterate over each file and load its contents
 for file_name in file_names:
-    loader = TextLoader(f"/output_files/{file_name}")
+    loader = TextLoader(f"output_files/{file_name}")
     documents = loader.load()
     all_documents.extend(documents)
 

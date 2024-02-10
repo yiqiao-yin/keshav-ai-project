@@ -5,9 +5,8 @@ import openai
 import pandas as pd
 import streamlit as st
 from langchain.document_loaders import TextLoader
-from sentence_transformers import SentenceTransformer
-# from langchain.embeddings.sentence_transformer import \
-#     SentenceTransformerEmbeddings
+from langchain.embeddings.sentence_transformer import \
+    SentenceTransformerEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
 from scipy.spatial.distance import cosine
@@ -271,8 +270,8 @@ text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
 docs = text_splitter.split_documents(all_documents)
 
 # Create the open-source embedding function
-# embedding_function = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
-embedding_function = SentenceTransformer("all-MiniLM-L6-v2")
+embedding_function = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+# embedding_function = SentenceTransformer("all-MiniLM-L6-v2")
 # embedding_function = openai_text_embedding
 
 # Load the documents into Chroma

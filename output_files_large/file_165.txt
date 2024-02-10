@@ -1,0 +1,4 @@
+### Human:
+What organization is Allen outside of the YSA board?
+### Assistant:
+Allen is outside of the YSA board.

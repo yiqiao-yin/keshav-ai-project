@@ -1,0 +1,6 @@
+### Human: What is the focus of YSA's tracking?
+### Assistant: YSA tracks impact and outcomes longitudinally, over a period of years.
+### Human: What has the project team done?
+### Assistant: The project team has documented the process of planning, building, implementing, and operating the program.
+### Human: Why did the project team document the process?
+### Assistant: The project team documented the process so the project model can be shared with other communities for replication.

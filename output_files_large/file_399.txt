@@ -1,0 +1,4 @@
+### Human: What do YSA youth do in the Fine Art program?
+### Assistant: YSA youth in the Fine Art program sell their art at local businesses in Berkeley and receive half the proceeds of their sales.
+### Human: What are YSA youth encouraged to explore in the Fine Art program?
+### Assistant: YSA youth are encouraged to explore performance art in the Fine Art program.

@@ -1,0 +1,2 @@
+### Human: Do all residents develop educational and vocational plans upon move-in?
+### Assistant: Yes, all residents are required to develop written educational and/or vocational plans upon move-in.

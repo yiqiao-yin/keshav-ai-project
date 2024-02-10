@@ -1,0 +1,2 @@
+### Human: What did they do as part of the vision exercise?
+### Assistant: They engaged in a vision exercise.

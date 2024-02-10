@@ -1,0 +1,4 @@
+### Human: Who is Saphonia?
+### Assistant: Saphonia is a financial manager/consultant at MODIS.
+### Human: What is Jonathann Giammarco's role?
+### Assistant: Jonathann Giammarco is the treasurer of the YSA board.

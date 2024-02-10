@@ -1,0 +1,8 @@
+### Human: How many homeless and low-income youth have participated in YSA programs since 2007?
+### Assistant: More than 700 homeless and low-income youth have participated in YSA programs since 2007.
+
+### Human: How many program graduates have gone on to receive a high school diploma, enter college, begin work, or become employed by YSA?
+### Assistant: More than 500 program graduates have gone on to receive a high school diploma, enter college, begin work, or become employed by YSA.
+
+### Human: What is the mission of the Housing Consortium of the East Bay (HCEB)?
+### Assistant: The mission of the Housing Consortium of the East Bay (HCEB) is to partner with nonprofit and for-profit agencies to develop affordable housing and inclusive communities for individuals with developmental disabilities and other special needs.

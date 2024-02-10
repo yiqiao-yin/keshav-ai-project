@@ -1,0 +1,5 @@
+### Human: What types of youth-led efforts does YSA provide?
+### Assistant: YSA provides innovative jobs training and placement. 
+
+### Human: What is one way that YSA engages youth?
+### Assistant: YSA engages youth as leaders in community revitalization.

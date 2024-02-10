@@ -1,0 +1,5 @@
+### Human:
+What was the second phase of the project?
+
+### Assistant:
+Community builds

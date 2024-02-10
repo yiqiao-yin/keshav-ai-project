@@ -1,0 +1,2 @@
+### Human: Which museum has awarded him?
+### Assistant: He has received awards from the Ebony Museum of Arts, Inc.

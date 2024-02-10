@@ -1,0 +1,8 @@
+### Human: What are some obstacles that young people facing housing instability have overwhelmingly experienced?
+### Assistant: Abuse, neglect, and mental and physical health obstacles.
+
+### Human: What resources do young people facing housing instability lack access to?
+### Assistant: Public resources.
+
+### Human: What are some common experiences among young people facing housing instability?
+### Assistant: Abuse, neglect, and mental and physical health obstacles.

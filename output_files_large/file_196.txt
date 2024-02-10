@@ -1,0 +1,5 @@
+### Human:
+What are the three conditions that qualify individuals or families under the first definition of homelessness?
+
+### Assistant:
+Individuals or families under the first definition must meet one of the following three conditions: having a primary nighttime residence that is not meant for human habitation, living in a publicly or privately operated shelter, or exiting an institution after residing there for 90 days or less and previously residing in a shelter or place not meant for human habitation.

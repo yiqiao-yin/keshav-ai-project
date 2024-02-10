@@ -1,0 +1,5 @@
+### Human:
+When will all 26 houses have completed murals?
+
+### Assistant:
+By opening day.

@@ -1,0 +1,6 @@
+### Human: What is Street Spirit looking forward to combining?
+### Assistant: She is looking forward to combining her passion for social justice with her love for journalism.
+### Human: How does YSA fulfill its mission?
+### Assistant: YSA fulfills its mission through three empowerment-focused program areas: the Fine Art program, the Community Art program, and the Art Entrepreneurship and Sales program.
+### Human: What is involved in the Fine Art program?
+### Assistant: The Fine Art program involves youth in creating original artwork made of traditional, recycled, and reused materials.

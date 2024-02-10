@@ -1,0 +1,8 @@
+### Human: What is the mission of YSA?
+### Assistant: YSA fulfills its mission through three empowerment-focused program areas: the Fine Art program, the Community Art program, and the Art Entrepreneurship and Sales program.
+### Human: What does the Fine Art program involve?
+### Assistant: The Fine Art program involves youth in creating original artwork made of traditional, recycled, and reused materials.
+### Human: What is Street Spirit looking forward to?
+### Assistant: At Street Spirit, she is looking forward to combining her passion for social justice with her love for journalism, and elevating homeless voices in the media.
+### Human: Where can I contact A. Boone?
+### Assistant: You can contact A. Boone via email at aboone@youthspiritartworks.org.

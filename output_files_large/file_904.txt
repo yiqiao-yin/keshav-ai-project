@@ -1,0 +1,5 @@
+### Human: What are you proud to announce?
+### Assistant: We are proud to announce that this vision has been made a reality.
+
+### Human: What does addressing the homeless crisis require?
+### Assistant: Addressing the homeless crisis, especially in the Bay Area, requires fresh approaches and innovative thinking.

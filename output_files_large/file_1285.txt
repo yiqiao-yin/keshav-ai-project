@@ -1,0 +1,2 @@
+### Human: What is the purpose of the plan?
+### Assistant: The purpose of the plan is to document and share lessons learned, challenges, successes, policies and procedures, and building plans.

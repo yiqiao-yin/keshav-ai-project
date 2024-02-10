@@ -1,0 +1,6 @@
+### Human: What skills do youth in the Fine Art program learn?
+### Assistant: The Fine Art program teaches youth entrepreneurial and business skills.
+### Human: How does the Community Art program engage young people?
+### Assistant: The Community Art program engages young people as leaders in neighborhood revitalization through the creation of murals, tile projects, and other public art.
+### Human: What does the Art Entrepreneurship and Sales program help youth with?
+### Assistant: The Art Entrepreneurship and Sales program helps youth participate in the marketing and sales of original and reproduced art.

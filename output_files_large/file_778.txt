@@ -1,0 +1,15 @@
+### Human:
+
+What is the name and location of the BACS Wellness Center?
+
+### Assistant:
+
+The BACS Wellness Center is called Towne House and it is located at 629 Oakland Ave, Oakland CA 94611.
+
+### Human:
+
+What are the operating hours of Towne House (BACS Wellness Center)?
+
+### Assistant:
+
+Towne House (BACS Wellness Center) is open Monday - Wednesday from 1:00 pm to 4:00 pm.

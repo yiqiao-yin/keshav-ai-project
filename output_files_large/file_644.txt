@@ -1,0 +1,4 @@
+### Human:
+How many youth Tiny Houses does the YSA youth plan to create over the next ten years?
+### Assistant:
+The YSA youth plan to create 25 youth Tiny Houses over the next ten years.

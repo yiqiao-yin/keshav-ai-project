@@ -1,0 +1,4 @@
+### Human: What are the guiding principles of the operational plan?
+### Assistant: The guiding principles of the operational plan include a safe, clean, well-maintained environment, fiscal responsibility, risk mitigation, liability management, and ensuring residents have every chance to succeed.
+### Human: How will operational costs be covered?
+### Assistant: Operational costs will be offset by rents from residents.

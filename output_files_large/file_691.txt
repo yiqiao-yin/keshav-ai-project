@@ -1,0 +1,5 @@
+### Human:
+What is the first step in the process for taking a Crisis Assessment?
+
+### Assistant:
+The first step is to determine if you meet the baseline eligibility requirements for our program.

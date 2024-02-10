@@ -1,0 +1,6 @@
+### Human: When will all the houses have completed murals?
+### Assistant: By opening day.
+### Human: How many houses will have completed murals?
+### Assistant: All 26 houses.
+### Human: What will be the result of all the completed murals?
+### Assistant: A mobile mural garden of tiny houses on wheels.

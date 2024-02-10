@@ -1,0 +1,11 @@
+### Human: What is the name of the first church mentioned in the content?
+### Assistant: John’s Episcopal Church
+
+### Human: In which city is Temple Beth Abraham located?
+### Assistant: Oakland
+
+### Human: Which church is located in Berkeley?
+### Assistant: Strawberry Creek Friends Meeting
+
+### Human: What is the name of the synagogue in Oakland?
+### Assistant: Temple Sinai

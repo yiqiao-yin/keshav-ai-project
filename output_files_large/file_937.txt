@@ -1,0 +1,4 @@
+### Human: Who led the YSA youth team in March and April of 2019?
+### Assistant: Rolf Bell, the former West Coast Regional Manager of Habitat for Humanity, led the team.
+### Human: What did the YSA youth team do during that time?
+### Assistant: They partnered with skilled Build Leaders from the community to construct the first two houses.

@@ -1,0 +1,14 @@
+### Human:
+As of what year have you built the houses?
+### Assistant:
+As of 2023. 
+
+### Human:
+How many houses have you built?
+### Assistant:
+We've built 26 houses.
+
+### Human:
+How many volunteers have helped in building the houses?
+### Assistant:
+Over 2,000 volunteers have helped in the builds.

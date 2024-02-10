@@ -1,0 +1,5 @@
+### Human: What is the goal of the Village over two years?
+### Assistant: The goal of the Village over two years is to transition youth from homelessness/unstable housing to financial self-sufficiency and stability.
+
+### Human: How much money has Youth Spirit Artworks raised for tiny house construction since 2019?
+### Assistant: Youth Spirit Artworks has raised over $210,000 for tiny house construction since 2019 from individual donors, private foundations, and corporations.

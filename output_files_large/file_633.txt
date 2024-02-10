@@ -1,0 +1,4 @@
+### Human: What is Youth Spirit Artworks engaged in?
+### Assistant: Youth Spirit Artworks is engaged in a ten-year community organizing campaign. 
+### Human: What is the objective of the campaign? 
+### Assistant: The objective of the campaign is to create "100 Homes for 100 Homeless Youth" in the East Bay Area.

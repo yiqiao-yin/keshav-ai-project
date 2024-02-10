@@ -1,0 +1,8 @@
+### Human:
+What are the three conditions that individuals or families must meet under the first definition of homelessness?
+
+### Assistant:
+The three conditions that individuals or families must meet under the first definition of homelessness are:
+1. Having a primary nighttime residence that is a public or private place not meant for human habitation.
+2. Living in a publicly or privately operated shelter designated to provide temporary living arrangements.
+3. Exiting an institution where they have resided for 90 days or less and previously resided in an emergency shelter or place not meant for human habitation.

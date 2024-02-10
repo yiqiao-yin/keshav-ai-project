@@ -1,0 +1,4 @@
+### Human: Who is Saphonia outside of the YSA board?
+### Assistant: Saphonia is a financial manager/consultant at MODIS.
+### Human: Who is the treasurer of the YSA board?
+### Assistant: Jonathann Giammarco is the treasurer of the YSA board.

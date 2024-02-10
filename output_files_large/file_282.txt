@@ -1,0 +1,2 @@
+### Human: What award did he receive in 2010?
+### Assistant: He received the Alameda County Arts Leadership Award in 2010.

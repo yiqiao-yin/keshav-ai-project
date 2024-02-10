@@ -1,0 +1,4 @@
+### Human:
+What is the content you want to create a question-answer format for?
+### Assistant:
+The content I want to create a question-answer format for is: "Take care, The Tiny House Empowerment Village Team. The first option to see if you qualify to take a Crisis Assessment is to call in."

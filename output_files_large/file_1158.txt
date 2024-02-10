@@ -1,0 +1,5 @@
+Human: What will be expected of the residents in terms of participation?
+Assistant: Residents will be asked to participate in helping with monthly cleaning and property maintenance.
+
+Human: What are the key areas of focus for YSA's program model?
+Assistant: The focus of YSA's program model is on youth jobs training, job placement, and academic success.

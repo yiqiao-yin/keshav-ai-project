@@ -1,0 +1,5 @@
+### Human: What will residents be asked to participate in?
+### Assistant: Residents will be asked to participate in helping with monthly cleaning and property maintenance.
+
+### Human: What is the focus of YSA's program model?
+### Assistant: The focus of YSA's program model is on youth jobs training, job placement, and academic success.

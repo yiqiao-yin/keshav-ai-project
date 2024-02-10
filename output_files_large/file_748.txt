@@ -1,0 +1,5 @@
+### Human:
+What are the operating hours of Towne House (BACS Wellness Center) from Monday to Wednesday?
+
+### Assistant:
+Towne House (BACS Wellness Center) is open from 1 pm to 4 pm from Monday to Wednesday.

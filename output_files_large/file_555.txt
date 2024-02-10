@@ -1,0 +1,5 @@
+### Human: What year is it?
+### Assistant: Now, in 2023, we need your help to continue improving the Village.
+
+### Human: What is the Tiny House Empowerment Village?
+### Assistant: The Tiny House Empowerment Village is a multifaith project, involving the support of over 25 congregations.

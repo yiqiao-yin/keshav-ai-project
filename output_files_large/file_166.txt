@@ -1,0 +1,6 @@
+### Human: What board is Allen outside of?
+### Assistant: Allen is outside of the YSA board.
+### Human: What degree does Allen have?
+### Assistant: Allen has a master's degree in social work.
+### Human: What is Allen's profession?
+### Assistant: Allen is a licensed clinical social worker.

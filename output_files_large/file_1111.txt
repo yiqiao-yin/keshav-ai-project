@@ -1,0 +1,9 @@
+### Human:
+What is the goal of the fundraising efforts?
+### Assistant:
+The goal of the fundraising efforts is to raise $100,000 in Case Management funds from the City of Berkeley. 
+
+### Human:
+Who will benefit from HCEB's extensive supportive housing management experience?
+### Assistant:
+Both the Village and the community will benefit from HCEB's extensive supportive housing management experience.

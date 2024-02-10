@@ -1,0 +1,11 @@
+### Human:
+What is the main focus of YSA's approach?
+
+### Assistant:
+YSA's approach focuses on tracking impact and outcomes longitudinally over a period of years. 
+
+### Human:
+What has the project team done to ensure the project model can be shared with other communities?
+
+### Assistant:
+The project team has documented the process of planning, building, implementing, and operating the program, as well as its impact, to facilitate sharing the project model with other communities for replication.

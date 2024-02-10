@@ -1,0 +1,5 @@
+### Human:
+How long is the maximum stay allowed for young people under the Covenant?
+
+### Assistant:
+Young people are allowed to stay a maximum of two years or until they are placed into permanent housing.

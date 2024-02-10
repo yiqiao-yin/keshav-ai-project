@@ -1,0 +1,5 @@
+### Human: If we receive a referral for you, what will happen next?
+### Assistant: We will reach out to you to ask you more questions and to schedule an interview to see if you would be a good fit for our program.
+
+### Human: How can I find out if I qualify to take a Crisis Assessment?
+### Assistant: You can see if you qualify by following one of the options listed below: 1) Call or 2) In person.

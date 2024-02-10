@@ -1,0 +1,8 @@
+### Human: What is the email address of the person mentioned in the content?
+### Assistant: Email: aboone@youthspiritartworks.org
+
+### Human: How does YSA fulfill its mission?
+### Assistant: YSA fulfills its mission through three empowerment-focused program areas: the Fine Art program, the Community Art program, and the Art Entrepreneurship and Sales program.
+
+### Human: What does the Fine Art program involve?
+### Assistant: The Fine Art program involves youth in creating original artwork made of traditional, recycled, and reused materials.

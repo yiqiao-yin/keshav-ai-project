@@ -1,0 +1,4 @@
+### Human:
+### Assistant: Where was Boone born?
+### Human:
+### Assistant: What degree did Boone earn from UC Berkeley in 2016?

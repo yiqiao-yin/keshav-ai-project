@@ -1,0 +1,8 @@
+### Human: What year are we currently in?
+### Assistant: We are currently in 2023.
+
+### Human: What project is in need of help?
+### Assistant: The Tiny House Empowerment Village is in need of help.
+
+### Human: How many congregations are involved in the project?
+### Assistant: Over 25 congregations are involved in the project.

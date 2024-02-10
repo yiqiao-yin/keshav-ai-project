@@ -1,0 +1,4 @@
+### Human: How does the model for rental income work?
+### Assistant: Our model is to use a sliding scale, based on an ability to pay.
+### Human: What is the anticipated average monthly rental income per unit?
+### Assistant: We anticipate the average monthly rental income to be $250 per unit.

@@ -1,0 +1,4 @@
+### Human:
+What does the plan aim to document and share?
+### Assistant:
+Lessons learned, challenges, successes, policies and procedures, and building plans.

@@ -1,0 +1,5 @@
+### Human:
+What is the potential impact of our work?
+
+### Assistant:
+Our work will have a greater impact.

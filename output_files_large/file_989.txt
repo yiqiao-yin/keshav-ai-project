@@ -1,0 +1,5 @@
+### Human:
+What was the activity during the third phase?
+
+### Assistant:
+Mural creation was the activity during the third phase.

@@ -1,0 +1,9 @@
+### Human:
+What is the link to donate to the Tiny House Village?
+### Assistant:
+If you would like to donate to the Tiny House Village, visit this link: https://youthspiritartworks.kindful.com/.
+
+### Human:
+How can I apply to be a part of the Tiny House Empowerment Village community?
+### Assistant:
+Thank you for your interest in applying to be a part of the Tiny House Empowerment Village community! Since the Coordinated Entry system recently went through a major change, our funders now require that we no longer take community referrals and instead only accept referrals through Coordinated Entry.

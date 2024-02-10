@@ -1,0 +1,9 @@
+### Human:
+What is Allen's educational background?
+### Assistant:
+Allen is a doctoral candidate for the School of Public Health at UC Berkeley outside of the board.
+
+### Human:
+What is John Shannon's role?
+### Assistant:
+John Shannon is the certified public accountant of the board of YSA.

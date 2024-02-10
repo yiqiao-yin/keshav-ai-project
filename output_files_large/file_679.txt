@@ -1,0 +1,5 @@
+### Human:
+What is the purpose of the provided link?
+
+### Assistant:
+The purpose of the provided link is to donate to the Tiny House Village.

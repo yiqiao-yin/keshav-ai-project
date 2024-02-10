@@ -1,0 +1,2 @@
+### Human: What was the purpose of the second phase?
+### Assistant: The purpose of the second phase was community builds.

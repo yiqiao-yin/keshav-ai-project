@@ -1,0 +1,8 @@
+### Human: What college did Evins graduate from?
+### Assistant: Evins graduated from CCA (California College of the Arts).
+### Human: What kind of organizations did Evins work with?
+### Assistant: Evins has worked with many arts organizations.
+### Human: What was Evins' focus in bringing art programming to Oakland?
+### Assistant: Evins focused on bringing quality art programming to Oakland.
+### Human: Which specific area of Oakland did Evins prioritize?
+### Assistant: Evins especially focused on bringing art programming to East Oakland.

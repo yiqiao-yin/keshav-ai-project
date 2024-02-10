@@ -1,0 +1,4 @@
+### Human: What are the three conditions that individuals or families under the first definition must meet to be considered homeless?
+### Assistant: Individuals or families under the first definition must meet one of the following three conditions: having a primary nighttime residence that is not meant for human habitation, living in a publicly or privately operated shelter designated to provide temporary living arrangements, or exiting an institution where they resided for 90 days or less and previously lived in an emergency shelter or place not meant for human habitation. 
+### Human: What is the second definition of a "literally" homeless individual or family?
+### Assistant: The second definition of a "literally" homeless individual or family is one who will imminently lose their primary nighttime residence.

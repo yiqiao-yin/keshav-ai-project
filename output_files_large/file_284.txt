@@ -1,0 +1,2 @@
+### Human: When did he receive the Alameda County Arts Leadership Award?
+### Assistant: In 2010.

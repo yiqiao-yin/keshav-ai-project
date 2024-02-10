@@ -1,0 +1,7 @@
+### Human:
+### Assistant:
+
+What time does the Fine Art program occur?
+### Human:
+### Assistant:
+The Fine Art program occurs from 3:30-6:30pm.

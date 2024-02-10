@@ -1,0 +1,4 @@
+### Human:
+What was the first phase of the project?
+### Assistant:
+The first phase was prototype builds.

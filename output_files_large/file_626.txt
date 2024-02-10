@@ -1,0 +1,8 @@
+### Human: How can I involve my congregation?
+### Assistant: Email us to get your congregation involved.
+
+### Human: What is your organization's ongoing work?
+### Assistant: Our ongoing work is to create housing for at-risk youth.
+
+### Human: What is the name of the housing project?
+### Assistant: The housing project is called the Tiny House Empowerment Village.

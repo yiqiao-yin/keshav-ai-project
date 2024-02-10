@@ -1,0 +1,7 @@
+Here is an example of a question-answer content based on the provided text:
+
+### Human: Where was Boone born?
+### Assistant: Boone was born in San Francisco.
+
+### Human: Where did Boone earn his BA?
+### Assistant: Boone earned his BA from UC Berkeley in 2016.

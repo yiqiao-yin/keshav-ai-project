@@ -1,0 +1,11 @@
+### Human: What activities are youth-led in the residential community?
+### Assistant: Residential community-based activities. 
+
+### Human: What kind of conflict resolution is practiced in the community?
+### Assistant: Restorative justice conflict resolution.
+
+### Human: Who worked with the YSA youth to create a behavior covenant?
+### Assistant: Former superintendent of Andover Public Schools David Jackson.
+
+### Human: What was the purpose of creating the behavior covenant?
+### Assistant: To establish community accountability and restorative justice in the Village.

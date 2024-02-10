@@ -1,0 +1,8 @@
+### Human: What event does the youth in the Fine Art program hold every month?
+### Assistant: The youth in the Fine Art program hold a Poetry Slam every third Saturday of the month. 
+
+### Human: Who leads the special trainings for writing poetry in the Fine Art program?
+### Assistant: Natasha Huey and Gabriel Cortez lead the special trainings for writing poetry in the Fine Art program.
+
+### Human: What topics do the youth in the Fine Art program learn about in their curriculum?
+### Assistant: The youth in the Fine Art program learn about earning money, spending money wisely, budgeting, saving and investing money, using credit cautiously, and protecting one's personal finance through an accredited curriculum.

@@ -1,0 +1,4 @@
+### Human:
+What are the three conditions that individuals or families under the first definition must meet to be considered homeless?
+### Assistant:
+The three conditions are: having a primary nighttime residence that is not meant for human habitation, living in a publicly or privately operated shelter, or exiting an institution where they resided for 90 days or less while previously living in an emergency shelter or place not meant for human habitation.

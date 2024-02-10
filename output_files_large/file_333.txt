@@ -1,0 +1,2 @@
+### Human: What is the role of the editor mentioned in the content?
+### Assistant: The editor assigns and edits stories, builds relationships with writers and vendors, and keeps track of homelessness issues.

@@ -1,0 +1,5 @@
+### Human: What are some advantages of tiny houses?
+### Assistant: Tiny houses are quick, inexpensive, and easy to assemble, movable and adaptable, compatible with the Habitat for Humanity community build model, and replicable across location and need.
+
+### Human: How is the Tiny House Empowerment Village operated?
+### Assistant: The Tiny House Empowerment Village is operated as transitional-aged youth (TAY) emergency shelter following guidance provided by the City of Oakland's emergency shelter ordinance and Oakland's "community cabins" program.

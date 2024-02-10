@@ -1,0 +1,5 @@
+### Human:
+What phone number can people without a phone call in Berkeley?
+
+### Assistant:
+People without a phone can call 2-1-1.

@@ -1,0 +1,5 @@
+### Human: How can I sign up to volunteer?
+### Assistant: You can sign up to volunteer by clicking this link: https://www.mobilize.us/youthspiritartworks/.
+
+### Human: What is the Tiny House Empowerment Village project?
+### Assistant: The Tiny House Empowerment Village project was initiated by young people in YSA's programs in response to the crisis of affordable and accessible housing.

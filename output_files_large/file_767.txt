@@ -1,0 +1,17 @@
+### Human:
+What is the phone number to call for assistance if someone doesn't have a phone?
+
+### Assistant:
+People without a phone can call 2-1-1 for assistance.
+
+### Human:
+Where are the locations in Berkeley where people without a phone can call 2-1-1?
+
+### Assistant:
+The locations in Berkeley where people without a phone can call 2-1-1 are the Berkeley Drop-In Center (3234 Adeline Street, Berkeley CA 94703) and the Women’s Daytime Drop-in Center (2218 Acton Street, Berkeley CA 94702, for women only).
+
+### Human:
+What is the first option to see if someone qualifies for a Crisis Assessment?
+
+### Assistant:
+The first option to see if someone qualifies for a Crisis Assessment is to go in person.

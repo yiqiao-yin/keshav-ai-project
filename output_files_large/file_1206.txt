@@ -1,0 +1,4 @@
+### Human: What is the purpose of the residential community-based activities?
+### Assistant: The purpose is to provide a youth-led environment with restorative justice conflict resolution and community consensus decision making.
+### Human: Who was involved in creating a covenant of behavior for the Village?
+### Assistant: The former superintendent of Andover Public Schools, David Jackson, met regularly with YSA youth to create the covenant of behavior.

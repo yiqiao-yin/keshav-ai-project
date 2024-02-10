@@ -1,0 +1,4 @@
+### Human: What skills do youth learn in the Art Entrepreneurship and Sales program?
+### Assistant: Youth in the Art Entrepreneurship and Sales program learn entrepreneurial and business skills.
+### Human: What community organizing campaign did youth at YSA initiate in January 2016?
+### Assistant: Youth at YSA initiated a community organizing campaign to build a Tiny House Village for homeless youth in the San Francisco East Bay Area.

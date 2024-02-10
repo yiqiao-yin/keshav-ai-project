@@ -1,0 +1,13 @@
+### Human:
+What are the conditions that individuals or families must meet to be classified as homeless under the second definition?
+
+### Assistant:
+Residence will be lost within 14 days of the date of application for homeless assistance, no subsequent residence has been identified, and the individual or family lacks the resources or support networks needed to obtain other permanent housing.
+
+### Human:
+
+Who qualifies as a "literally" homeless individual or family under the third definition?
+
+### Assistant:
+
+Unaccompanied youth under 25 years of age or families with Category 3 children and youth, who do not otherwise qualify as homeless under this definition.

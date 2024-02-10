@@ -1,0 +1,2 @@
+### Human: Can you tell me about Jimi's passion?
+### Assistant: According to Jimi, "Art making has been my passion since I was a child."

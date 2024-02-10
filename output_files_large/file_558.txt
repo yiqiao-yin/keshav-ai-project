@@ -1,0 +1,6 @@
+### Human: What year is it mentioned in the content?
+### Assistant: 2023.
+### Human: What is the Tiny House Empowerment Village?
+### Assistant: It is a multifaith project.
+### Human: How many congregations support the project?
+### Assistant: Over 25 congregations.

@@ -1,0 +1,5 @@
+### Human:
+What criteria determines if we receive referrals directly from Coordinated Entry?
+
+### Assistant: 
+When we have any openings, we will be sent referrals directly from Coordinated Entry for people ranking at the top of that list.

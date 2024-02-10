@@ -1,0 +1,6 @@
+### Human:
+### Assistant: How were these houses used?
+### Human:
+### Assistant: What purpose did these houses serve?
+### Human:
+### Assistant: How did these houses contribute to future builds?

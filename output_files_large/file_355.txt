@@ -1,0 +1,7 @@
+### Human:
+
+What website did she previously work for?
+
+### Assistant:
+
+She previously worked for CityLab, The Atlantic's website on urbanism and city life.

@@ -1,0 +1,2 @@
+### Human: What kind of training program is offered to residents at the Village?
+### Assistant: Residents at the Village will receive YSA's core jobs training program.

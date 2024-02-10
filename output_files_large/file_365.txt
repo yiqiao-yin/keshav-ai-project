@@ -1,0 +1,5 @@
+### Human:
+
+Which magazines has her writing appeared in?
+### Assistant:
+Her writing has appeared in California magazine and The Daily Californian.

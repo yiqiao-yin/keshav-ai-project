@@ -1,0 +1,4 @@
+### Human:
+What is the basis for the sliding scale of rental fees in your model?
+### Assistant:
+The sliding scale of rental fees in our model is based on an ability to pay.

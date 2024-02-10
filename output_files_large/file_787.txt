@@ -1,0 +1,5 @@
+### Human:
+What is the name and address of the North County Housing Resource Center?
+
+### Assistant:
+The name is North County Housing Resource Center and the address is 2809 Telegraph Ave, Berkeley CA 94705.

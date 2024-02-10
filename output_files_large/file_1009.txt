@@ -1,0 +1,5 @@
+### Human:
+How many houses will have completed murals by opening day?
+
+### Assistant:
+All 26 houses will have completed murals by opening day.

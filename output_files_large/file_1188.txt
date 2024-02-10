@@ -1,0 +1,5 @@
+### Human: What services does Youth Spirit Artworks provide to support youth? 
+### Assistant: Youth Spirit Artworks provides comprehensive case management support, leadership training, and social services. 
+
+### Human: What does Youth Spirit Artworks offer to help youths transition to long-term stability? 
+### Assistant: Youth Spirit Artworks offers a supportive and caring environment that delivers educational opportunities, jobs training and placement, life skills support, and emotional and crisis support.

@@ -1,0 +1,4 @@
+### Human: 
+What will be completed by opening day?
+### Assistant:
+All 26 houses will have completed murals.

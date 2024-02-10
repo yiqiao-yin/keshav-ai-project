@@ -1,0 +1,5 @@
+### Human:
+What is the purpose of the Crisis Assessment?
+
+### Assistant:
+The purpose of the Crisis Assessment is to determine if you are eligible for our program.

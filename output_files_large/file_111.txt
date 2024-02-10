@@ -1,0 +1,8 @@
+### Human:
+What do young people get to do by working on art projects in their communities?
+### Assistant:
+They get to make a positive impact in their communities by working on art projects that make their neighborhoods better.
+### Human:
+Who is the secretary of the YSA board?
+### Assistant:
+Lila Blanchard is the secretary of the YSA board.

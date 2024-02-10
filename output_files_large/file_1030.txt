@@ -1,0 +1,5 @@
+### Human:
+What amenities are available in The Village?
+
+### Assistant:
+The Village features two community yurts with a kitchen and meeting space, and on-site communal bathrooms and showers.

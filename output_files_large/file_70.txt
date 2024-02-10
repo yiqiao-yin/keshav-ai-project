@@ -1,0 +1,8 @@
+### Human:
+Who were some of the important leaders in the Board?
+### Assistant:
+Maheesh Jain, Lauren Snider-Brandt, Lila McDonald, and Nishan Ardon.
+### Human:
+What role did Nishan Ardon play in the Board?
+### Assistant:
+Nishan Ardon helped with graphics and marketing.

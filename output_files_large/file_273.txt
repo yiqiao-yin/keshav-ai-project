@@ -1,0 +1,7 @@
+### Human: What awards has the person received for their artistic excellence and commitment to preserving African heritage?
+
+### Assistant: The person has received the Artistic Excellence and Pioneering Spirit in the Preservation of African Heritage award, the Community Arts & Education Award from the California College of the Arts, the Jan-Schuyers Artistic Achievement Award from the Richmond Art Center, and The Art of Living Black award.
+
+### Human: Has the person been recognized for their work with youth?
+
+### Assistant: Yes, the person has been honored by the EOYDC for dedicated service as a Champion for Youth.

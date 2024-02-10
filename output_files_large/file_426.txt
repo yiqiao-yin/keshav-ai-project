@@ -1,0 +1,4 @@
+### Human:
+What do YSA youth in the Art Entrepreneurship and Sales program in Berkeley do?
+### Assistant:
+They sell their art at local businesses and receive half the proceeds of their sales.

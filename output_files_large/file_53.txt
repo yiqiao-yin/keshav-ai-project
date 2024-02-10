@@ -1,0 +1,4 @@
+### Human:
+What is Sally's background?
+### Assistant:
+Sally has a background in theology and art.

@@ -1,0 +1,5 @@
+### Human:
+What is the basis of the sliding scale used in your model?
+
+### Assistant:
+The sliding scale is based on the ability to pay.

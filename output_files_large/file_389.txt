@@ -1,0 +1,11 @@
+### Human: What time does the Fine Art program start?
+### Assistant: The Fine Art program starts at 3:30pm.
+
+### Human: What time does the Fine Art program end?
+### Assistant: The Fine Art program ends at 6:30pm.
+
+### Human: When does the Fine Art program take place?
+### Assistant: The Fine Art program takes place every Monday through Friday.
+
+### Human: Where does the Fine Art program happen?
+### Assistant: The Fine Art program happens in the YSA studio.

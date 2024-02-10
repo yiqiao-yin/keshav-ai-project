@@ -1,0 +1,17 @@
+### Human:
+What year is it?
+
+### Assistant:
+Now, in 2023.
+
+### Human:
+What is the purpose of the Tiny House Empowerment Village?
+
+### Assistant:
+To continue improving the Village.
+
+### Human:
+How many congregations are involved in the multifaith project?
+
+### Assistant:
+Over 25 congregations.

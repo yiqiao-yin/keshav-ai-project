@@ -1,0 +1,8 @@
+### Human: What are the key elements of the residential community-based activities?
+### Assistant: The key elements of the residential community-based activities are youth-led, restorative justice conflict resolution, and community consensus decision making. 
+
+### Human: Who was involved in creating a covenant of behavior for the Village?
+### Assistant: Former superintendent of Andover Public Schools, David Jackson, met regularly with YSA youth to create a covenant of behavior for the Village. 
+
+### Human: What principles guided the creation of the covenant of behavior?
+### Assistant: The principles of community accountability and restorative justice guided the creation of the covenant of behavior.

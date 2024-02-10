@@ -1,0 +1,11 @@
+### Human: How many tiny houses are there in the completed Tiny House Village?
+### Assistant: The completed Tiny House Village features 26 secure 8' x 10' Tiny Houses. 
+
+### Human: What amenities are included in the Tiny House Village?
+### Assistant: The Tiny House Village includes on-site communal bathrooms and showers, a kitchen yurt for residents to cook communal meals and store their own food, a community gathering space for meetings, and on-site Resident Assistants who live in the community.
+
+### Human: Who did you work with to complete the Village?
+### Assistant: We worked in partnership with the non-profit developer Housing Consortium of the East Bay and the local interfaith community to complete the Village.
+
+### Human: How are the residents engaged in the community?
+### Assistant: As part of living at the Village, all residents are engaged in building a strong and connected community.

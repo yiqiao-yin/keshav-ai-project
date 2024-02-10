@@ -1,0 +1,4 @@
+### Human:
+What will residents be asked to do as part of the program?
+### Assistant:
+Residents will be asked to participate in helping with monthly cleaning and property maintenance.

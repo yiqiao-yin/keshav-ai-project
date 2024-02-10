@@ -1,0 +1,11 @@
+### Human:
+When was the Tiny House prototype unveiled?
+
+### Assistant:
+The Tiny House prototype was unveiled in 2017.
+
+### Human:
+Who designed and built the Tiny House prototype?
+
+### Assistant:
+The Tiny House prototype was designed and built by 6 youth leaders working with local architects, design students, and contractors.

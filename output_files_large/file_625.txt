@@ -1,0 +1,8 @@
+### Human: How can I get my congregation involved? 
+### Assistant: To get your congregation involved, email us.
+
+### Human: What is the purpose of your work? 
+### Assistant: Our work is to create housing for at-risk youth.
+
+### Human: Does your work end with the Tiny House Empowerment Village? 
+### Assistant: No, our work to create housing for at-risk youth doesn't stop with the Tiny House Empowerment Village.

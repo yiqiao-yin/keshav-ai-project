@@ -1,0 +1,2 @@
+### Human: What was the task in the third phase?
+### Assistant: Mural creation.

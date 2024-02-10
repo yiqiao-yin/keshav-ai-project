@@ -1,0 +1,6 @@
+### Human: What is the name of the church in Oakland?
+### Assistant: John's Episcopal Church.
+### Human: Where is Strawberry Creek Friends Meeting located?
+### Assistant: Berkeley.
+### Human: What is the name of the temple in Oakland?
+### Assistant: Temple Beth Abraham and Temple Sinai.

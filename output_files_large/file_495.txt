@@ -1,0 +1,4 @@
+### Human:
+What program will all residents at the Village participate in?
+### Assistant:
+All residents at the Village will participate in YSA's core jobs training program.

@@ -1,0 +1,4 @@
+### Human:
+What is the purpose of our work?
+### Assistant:
+The purpose of our work is to have a greater impact.

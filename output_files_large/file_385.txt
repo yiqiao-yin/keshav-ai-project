@@ -1,0 +1,8 @@
+### Human:
+### Assistant: What time does the Fine Art program happen?
+### Human:
+### Assistant: Where does the Fine Art program take place?
+### Human:
+### Assistant: How often does the Fine Art program take place?
+### Human:
+### Assistant: What days of the week does the Fine Art program happen?

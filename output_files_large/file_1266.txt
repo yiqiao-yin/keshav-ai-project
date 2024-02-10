@@ -1,0 +1,4 @@
+### Human:
+What does YSA do with the tracks of impact and outcomes?
+### Assistant:
+YSA tracks impact and outcomes longitudinally, over a period of years.

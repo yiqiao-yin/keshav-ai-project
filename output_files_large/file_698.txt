@@ -1,0 +1,5 @@
+### Human:
+What happens if I'm able to take a Crisis Assessment and meet the baseline eligibility requirements for the program? 
+
+### Assistant:
+You'll be placed on a waitlist that is ranked by level of need rather than the order in which people apply.

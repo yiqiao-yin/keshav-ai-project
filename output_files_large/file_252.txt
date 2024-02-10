@@ -1,0 +1,29 @@
+### Human:
+Which museums and galleries has Jimi exhibited at in Atlanta?
+
+### Assistant:
+Jimi has exhibited at the High Museum in Atlanta, GA.
+
+### Human:
+In which city did Jimi exhibit at the San Francisco Art Commission Gallery?
+
+### Assistant:
+Jimi exhibited at the San Francisco Art Commission Gallery in San Francisco.
+
+### Human:
+Where is the Sargent Johnson Gallery located?
+
+### Assistant:
+The Sargent Johnson Gallery is located in an unspecified location.
+
+### Human:
+Which Art Center did Jimi exhibit at in Berkeley?
+
+### Assistant:
+Jimi exhibited at the Berkeley Art Center in Berkeley.
+
+### Human:
+Name one gallery where Jimi has exhibited.
+
+### Assistant:
+Jimi has exhibited at Oliver Hyde Gallery.

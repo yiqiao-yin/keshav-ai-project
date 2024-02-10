@@ -5,12 +5,10 @@ import openai
 import pandas as pd
 import streamlit as st
 from langchain.document_loaders import TextLoader
-from langchain.embeddings.sentence_transformer import \
-    SentenceTransformerEmbeddings
+from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
 from scipy.spatial.distance import cosine
-
 
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
@@ -121,139 +119,8 @@ def convert_to_list_of_dict(df: pd.DataFrame) -> List[Dict[str, str]]:
     return result
 
 
-file_names = [
-    "file_0.txt",
-    "file_1.txt",
-    "file_2.txt",
-    "file_3.txt",
-    "file_4.txt",
-    "file_5.txt",
-    "file_6.txt",
-    "file_7.txt",
-    "file_8.txt",
-    "file_9.txt",
-    "file_10.txt",
-    "file_11.txt",
-    "file_12.txt",
-    "file_13.txt",
-    "file_14.txt",
-    "file_15.txt",
-    "file_16.txt",
-    "file_17.txt",
-    "file_18.txt",
-    "file_19.txt",
-    "file_20.txt",
-    "file_21.txt",
-    "file_22.txt",
-    "file_23.txt",
-    "file_24.txt",
-    "file_25.txt",
-    "file_26.txt",
-    "file_27.txt",
-    "file_28.txt",
-    "file_29.txt",
-    "file_30.txt",
-    "file_31.txt",
-    "file_32.txt",
-    "file_33.txt",
-    "file_34.txt",
-    "file_35.txt",
-    "file_36.txt",
-    "file_37.txt",
-    "file_38.txt",
-    "file_39.txt",
-    "file_40.txt",
-    "file_41.txt",
-    "file_42.txt",
-    "file_43.txt",
-    "file_44.txt",
-    "file_45.txt",
-    "file_46.txt",
-    "file_47.txt",
-    "file_48.txt",
-    "file_49.txt",
-    "file_50.txt",
-    "file_51.txt",
-    "file_52.txt",
-    "file_53.txt",
-    "file_54.txt",
-    "file_55.txt",
-    "file_56.txt",
-    "file_57.txt",
-    "file_58.txt",
-    "file_59.txt",
-    "file_60.txt",
-    "file_61.txt",
-    "file_62.txt",
-    "file_63.txt",
-    "file_64.txt",
-    "file_65.txt",
-    "file_66.txt",
-    "file_67.txt",
-    "file_68.txt",
-    "file_69.txt",
-    "file_70.txt",
-    "file_71.txt",
-    "file_72.txt",
-    "file_73.txt",
-    "file_74.txt",
-    "file_75.txt",
-    "file_76.txt",
-    "file_77.txt",
-    "file_78.txt",
-    "file_79.txt",
-    "file_80.txt",
-    "file_81.txt",
-    "file_82.txt",
-    "file_83.txt",
-    "file_84.txt",
-    "file_85.txt",
-    "file_86.txt",
-    "file_87.txt",
-    "file_88.txt",
-    "file_89.txt",
-    "file_90.txt",
-    "file_91.txt",
-    "file_92.txt",
-    "file_93.txt",
-    "file_94.txt",
-    "file_95.txt",
-    "file_96.txt",
-    "file_97.txt",
-    "file_98.txt",
-    "file_99.txt",
-    "file_100.txt",
-    "file_101.txt",
-    "file_102.txt",
-    "file_103.txt",
-    "file_104.txt",
-    "file_105.txt",
-    "file_106.txt",
-    "file_107.txt",
-    "file_108.txt",
-    "file_109.txt",
-    "file_110.txt",
-    "file_111.txt",
-    "file_112.txt",
-    "file_113.txt",
-    "file_114.txt",
-    "file_115.txt",
-    "file_116.txt",
-    "file_117.txt",
-    "file_118.txt",
-    "file_119.txt",
-    "file_120.txt",
-    "file_121.txt",
-    "file_122.txt",
-    "file_123.txt",
-    "file_124.txt",
-    "file_125.txt",
-    "file_126.txt",
-    "file_127.txt",
-    "file_128.txt",
-    "file_129.txt",
-    "file_130.txt",
-]
+# file_names = [f"output_files/file_{i}.txt" for i in range(131)]
+file_names = [f"output_files_large/file_{i}.txt" for i in range(1310)]
 
 
 # Initialize an empty list to hold all documents
@@ -261,7 +128,7 @@ all_documents = []  # this is just a copy, you don't have to use this
 
 # Iterate over each file and load its contents
 for file_name in file_names:
-    loader = TextLoader(f"output_files/{file_name}")
+    loader = TextLoader(file_name)
     documents = loader.load()
     all_documents.extend(documents)
 
@@ -327,10 +194,12 @@ if prompt := st.chat_input("Tell me about YSA"):
 
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
-        with st.spinner('Wait for it...'):
+        with st.spinner("Wait for it..."):
             st.markdown(response)
             with st.expander("See reference:"):
                 st.table(docs_2_table)
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})
-    st.session_state.messages.append({"role": "assistant", "content": docs_2_table.to_json()})
+    st.session_state.messages.append(
+        {"role": "assistant", "content": docs_2_table.to_json()}
+    )

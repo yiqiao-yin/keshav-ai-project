@@ -1,0 +1,4 @@
+### Human:
+What was the second phase?
+### Assistant:
+The second phase was community builds.

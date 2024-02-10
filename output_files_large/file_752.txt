@@ -1,0 +1,7 @@
+### Human:
+
+What is the phone number I can call from Monday to Friday between 9 to 12 pm?
+
+### Assistant:
+
+You can call 2-1-1 from Monday to Friday between 9 to 12 pm.

@@ -1,0 +1,6 @@
+### Human: Who does the organization focus on serving? 
+### Assistant: The organization focuses on serving BIPOC and LGBTQIA+ communities who are often in the low-income group. 
+### Human: When did the organization start? 
+### Assistant: The organization started in 2007. 
+### Human: What was the purpose of starting this organization? 
+### Assistant: The organization was started to address the challenges faced by older homeless and low-income youth, with a specific focus on providing job opportunities and training.

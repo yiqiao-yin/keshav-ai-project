@@ -1,0 +1,4 @@
+### Human: What is the maximum duration that young people can stay under the Covenant?
+### Assistant: The Covenant allows young people to stay a maximum of two years. 
+### Human: What is the other condition for the duration of stay under the Covenant?
+### Assistant: The other condition is that youth are placed into permanent housing.

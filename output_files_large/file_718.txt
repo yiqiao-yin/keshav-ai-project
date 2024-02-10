@@ -1,0 +1,4 @@
+### Human:
+What is the purpose of reaching out to someone if we receive a referral for them? 
+### Assistant:
+We reach out to ask more questions and schedule an interview to determine their suitability for our program.

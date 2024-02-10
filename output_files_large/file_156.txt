@@ -1,0 +1,4 @@
+### Human:
+### Assistant: Who is an inspection specialist at the Public Company Accounting Oversight Board besides being outside of the YSA board?
+### Human:
+### Assistant: Who is a member of the YSA board?

@@ -1,0 +1,19 @@
+### Human:
+### Assistant:
+What are the names of the churches and temples mentioned in the content?
+
+### Human:
+### Assistant:
+Which city is John's Episcopal Church located in?
+
+### Human:
+### Assistant:
+Where is Strawberry Creek Friends Meeting located?
+
+### Human:
+### Assistant:
+In which city is Temple Beth Abraham situated?
+
+### Human:
+### Assistant:
+What is the name of the temple in Oakland?

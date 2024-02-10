@@ -1,0 +1,11 @@
+### Human:
+What impact will our work have?
+
+### Assistant:
+Our work will have a greater impact.
+
+### Human:
+Who will our work help?
+
+### Assistant:
+Our work will help youth around the country.

@@ -1,0 +1,3 @@
+### Human: What are the lead supporting congregations?
+
+### Assistant: The lead supporting congregations are: 1) Congregation Beth El, Berkeley, 2) First Congregational Church of Berkeley, 3) Kehilla Community Synagogue, Oakland, 4) Shiloh Christian Fellowship, Oakland, 5) Unitarian Universalist Church of Berkeley

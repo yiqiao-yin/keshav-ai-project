@@ -1,0 +1,5 @@
+### Human: What is the fundraising goal for Case Management funds from the City of Berkeley?
+### Assistant: The fundraising goal for Case Management funds from the City of Berkeley is $100,000.
+
+### Human: How will HCEB's experience benefit both the Village and the community?
+### Assistant: HCEB's extensive supportive housing management experience will benefit both the Village and the community.

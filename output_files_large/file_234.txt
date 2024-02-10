@@ -1,0 +1,4 @@
+### Human:
+What college did Evins graduate from?
+### Assistant:
+Evins graduated from CCA (California College of the Arts).

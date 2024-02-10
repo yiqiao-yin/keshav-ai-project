@@ -1,0 +1,7 @@
+### Human: Who is Jasmine?
+
+### Assistant: Jasmine is a corporate counsel for Hearsay Social, Inc. outside of the YSA board. 
+
+### Human: Who is Saphonia Foster?
+
+### Assistant: Saphonia Foster is a member of the YSA board.

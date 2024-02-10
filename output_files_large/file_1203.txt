@@ -1,0 +1,8 @@
+### Human: What were the characteristics of the residential community-based activities?
+### Assistant: The residential community-based activities were youth-led and included restorative justice conflict resolution and community consensus decision making.
+
+### Human: Who did the former superintendent of Andover Public Schools meet with during the summer of 2019?
+### Assistant: The former superintendent of Andover Public Schools met regularly with YSA youth during the summer of 2019.
+
+### Human: What was the purpose of the meetings between the former superintendent and the YSA youth?
+### Assistant: The purpose of the meetings was to create a covenant of behavior for the Village based on community accountability and restorative justice.

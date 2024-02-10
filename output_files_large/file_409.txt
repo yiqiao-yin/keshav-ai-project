@@ -1,0 +1,8 @@
+### Human: When do the youth of the Fine Art program hold a Poetry Slam?
+### Assistant: Every third Saturday of the month.
+
+### Human: Who leads the special trainings for the Poetry Slam?
+### Assistant: Natasha Huey and Gabriel Cortez.
+
+### Human: What do the youth in the Fine Art program learn about in the accredited curriculum?
+### Assistant: The youth in the Fine Art program learn about earning money, spending money wisely through budgeting, saving and investing money, using credit cautiously, and protecting one's personal finance.

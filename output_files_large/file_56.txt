@@ -1,0 +1,2 @@
+### Human: What is Sally's educational and professional background?
+### Assistant: Sally has a background in theology and art.

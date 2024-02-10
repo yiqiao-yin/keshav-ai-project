@@ -1,0 +1,2 @@
+### Human: What has been Jimi's passion since he was a child?
+### Assistant: Art making has been Jimi's passion since he was a child.

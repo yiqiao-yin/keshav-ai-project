@@ -1,0 +1,6 @@
+### Human: What is the name of the housing resource center?
+### Assistant: The housing resource center is called North County Housing Resource Center.
+### Human: What is the address of the housing resource center?
+### Assistant: The address of the housing resource center is 2809 Telegraph Ave, Berkeley CA 94705.
+### Human: When is the housing resource center open?
+### Assistant: The housing resource center is open on Monday, Wednesday, and Friday from 9:00 am to 12:00 pm.

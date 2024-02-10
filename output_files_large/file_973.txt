@@ -1,0 +1,5 @@
+### Human: How many houses did volunteers build in 2020?
+### Assistant: Volunteers built 12 houses in 2020.
+
+### Human: How many completed Tiny Houses were there after the volunteers built more houses?
+### Assistant: There were 26 completed Tiny Houses after the additional construction by volunteers.

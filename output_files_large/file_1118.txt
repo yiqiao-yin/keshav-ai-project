@@ -1,0 +1,6 @@
+### Human: How much money are you trying to raise in Case Management funds?
+### Assistant: We are working to raise $100,000.
+### Human: Who are you trying to raise the funds from?
+### Assistant: We are trying to raise the funds from the City of Berkeley.
+### Human: How will HCEB's experience benefit the Village and the community?
+### Assistant: HCEB's extensive supportive housing management experience will benefit both the Village and the community.

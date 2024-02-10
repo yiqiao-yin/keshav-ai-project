@@ -1,0 +1,4 @@
+### Human:
+What are Sally's areas of expertise?
+### Assistant:
+Sally has a background in theology and art.

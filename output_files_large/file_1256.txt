@@ -1,0 +1,6 @@
+### Human:
+
+What are residents in the first Village cohort able to apply for?
+
+### Assistant:
+They may apply to become paid community leaders and Resident Assistants.

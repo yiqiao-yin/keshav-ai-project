@@ -1,0 +1,15 @@
+### Human:
+### Assistant:
+Who is a member of the YSA board?
+
+### Human:
+### Assistant:
+Saphonia Foster is a member of the YSA board.
+
+### Human:
+### Assistant:
+What is Jasmine's role outside of the YSA board?
+
+### Human:
+### Assistant:
+Jasmine is also a corporate counsel for Hearsay Social, Inc.

@@ -1,0 +1,4 @@
+### Human: What role does Lila have outside of the YSA board?
+### Assistant: Lila is the Richmond site manager for Rubicon Programs Inc.
+### Human: Who is the co-secretary of the YSA board?
+### Assistant: Jasmine Braxton is the co-secretary of the YSA board.

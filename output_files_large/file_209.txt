@@ -1,0 +1,5 @@
+### Human: What are the three conditions that individuals or families must meet under the second definition? 
+### Assistant: Individuals or families under the second definition must meet all of the three following conditions: Residence will be lost within 14 days of the date of application for homeless assistance, No subsequent residence has been identified, and The individual or family lacks the resources or support networks needed to obtain other permanent housing.
+
+### Human: Who qualifies as a "literally" homeless individual or family under the third definition?
+### Assistant: The third definition of a "literally" homeless individual or family is an unaccompanied youth under 25 years of age or families with Category 3 children and youth, who do not otherwise qualify as homeless under this definition.

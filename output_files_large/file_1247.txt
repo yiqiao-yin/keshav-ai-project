@@ -1,0 +1,6 @@
+### Human: What support is provided during regular case management meetings?
+### Assistant: Regular case management meetings provide support by updating plans and timelines to track when goals are met.
+### Human: How are life skills, health, and wellness assessed?
+### Assistant: Life skills, health, and wellness are assessed regularly.
+### Human: What helps in maintaining community accountability?
+### Assistant: Community accountability helps support each participant in maintaining their goals and progress.

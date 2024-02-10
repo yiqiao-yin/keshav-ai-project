@@ -1,0 +1,2 @@
+### Human: What do the youth in the Fine Art program do every third Saturday of the month?
+### Assistant: They hold a Poetry Slam and perform pieces written in special trainings.

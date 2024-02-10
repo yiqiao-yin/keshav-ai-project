@@ -1,0 +1,8 @@
+### Human: What does YSA track?
+### Assistant: YSA tracks impact and outcomes longitudinally.
+### Human: How long does YSA track impact and outcomes?
+### Assistant: YSA tracks impact and outcomes over a period of years.
+### Human: What has the project team documented?
+### Assistant: The project team has documented the process of planning, building, implementing, and operating the program.
+### Human: Why did the project team document the project model?
+### Assistant: The project team documented the project model so it can be shared with other communities for replication.

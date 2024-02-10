@@ -1,0 +1,5 @@
+### Human: What are residents accountable for in the community program?
+### Assistant: Residents are accountable both to the program and to each other for helping all community members in achieving their goals.
+
+### Human: Why does YSA track progress toward key goals and objectives?
+### Assistant: YSA tracks progress toward key goals and objectives for the following reasons: to help youth develop and solidify the skills they need to be job-ready, to improve health and wellness, mentally and physically, to set and meet educational and vocational goals, and to progress toward sustainable independent living.

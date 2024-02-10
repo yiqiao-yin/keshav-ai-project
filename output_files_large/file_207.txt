@@ -1,0 +1,8 @@
+### Human:
+What are the conditions that individuals or families must meet under the second definition for homeless assistance?
+
+### Assistant:
+Individuals or families under the second definition for homeless assistance must meet all of the following conditions:
+- Residence will be lost within 14 days of the date of application for homeless assistance
+- No subsequent residence has been identified
+- The individual or family lacks the resources or support networks needed to obtain other permanent housing

@@ -1,0 +1,12 @@
+### Human:
+What are some religious institutions in Oakland and Berkeley?
+### Assistant:
+John’s Episcopal Church.
+### Human:
+What is a religious institution in Berkeley?
+### Assistant:
+Strawberry Creek Friends Meeting.
+### Human:
+What are some temples in Oakland?
+### Assistant:
+Temple Beth Abraham and Temple Sinai.

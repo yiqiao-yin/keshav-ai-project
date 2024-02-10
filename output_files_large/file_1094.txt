@@ -1,0 +1,5 @@
+### Human: How does the Village support youth in need?
+### Assistant: The Village supports youth in need by transitioning them from homelessness/unstable housing to financial self-sufficiency and stability over a period of two years.
+
+### Human: How much money has Youth Spirit Artworks raised for tiny house construction?
+### Assistant: Since 2019, Youth Spirit Artworks has raised over $210,000 for tiny house construction from individual donors, private foundations, and corporations.

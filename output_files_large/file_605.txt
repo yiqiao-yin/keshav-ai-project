@@ -1,0 +1,5 @@
+### Human: What is the name of the church in Oakland?
+### Assistant: The name of the church in Oakland is Columba Catholic Church.
+
+### Human: What is the address of Columba Catholic Church?
+### Assistant: The address is 11 St.

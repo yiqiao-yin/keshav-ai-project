@@ -1,0 +1,2 @@
+### Human: How much money has been raised for the Village?
+### Assistant: $360,000 has been raised for the Village.

@@ -1,0 +1,2 @@
+### Human: What purpose did these houses serve?
+### Assistant: They served as vehicles for training and prototypes for future builds.

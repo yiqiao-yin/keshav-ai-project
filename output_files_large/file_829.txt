@@ -1,0 +1,11 @@
+### Human: What are some challenges that homeless individuals face in pursuing their academic and vocational goals?
+### Assistant: Homeless individuals may have difficulty pursuing academic and vocational goals.
+
+### Human: Can being homeless have severe consequences for individuals?
+### Assistant: Yes, being homeless, even for a short period, can start a cascade of individual and social tragedies.
+
+### Human: Do homeless individuals face life-threatening challenges?
+### Assistant: Yes, homeless individuals can face life-threatening challenges and risks.
+
+### Human: Is it easy for homeless individuals to overcome the difficulties associated with homelessness?
+### Assistant: No, the challenges and risks that come with homelessness can be difficult to overcome.

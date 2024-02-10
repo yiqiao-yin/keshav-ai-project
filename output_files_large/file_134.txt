@@ -1,0 +1,11 @@
+### Human:
+Who is a corporate counsel for Hearsay Social, Inc?
+
+### Assistant:
+Jasmine is a corporate counsel for Hearsay Social, Inc.
+
+### Human:
+Who is a member of the YSA board?
+
+### Assistant:
+Saphonia Foster is a member of the YSA board.

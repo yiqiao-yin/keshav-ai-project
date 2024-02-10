@@ -1,0 +1,5 @@
+### Human:
+What is the basis for determining rental income in your model? 
+
+### Assistant:
+Our model uses a sliding scale based on an ability to pay.

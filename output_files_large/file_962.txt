@@ -1,0 +1,5 @@
+### Human:
+How many volunteers participated in the build days?
+
+### Assistant:
+Over 500 volunteers participated in the build days.

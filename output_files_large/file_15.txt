@@ -1,0 +1,8 @@
+### Human: What communities does YSA focus on? 
+### Assistant: YSA focuses on BIPOC and LGBTQIA+ communities.
+### Human: What challenges does YSA address? 
+### Assistant: YSA addresses the challenges faced by older homeless and low-income youth.
+### Human: When was YSA founded? 
+### Assistant: YSA was founded in 2007.
+### Human: Who created YSA? 
+### Assistant: YSA was created by someone who understood the needs of young people looking for jobs and job training.

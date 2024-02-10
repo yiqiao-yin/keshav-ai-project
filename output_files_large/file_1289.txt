@@ -1,0 +1,2 @@
+### Human: What does our plan involve?
+### Assistant: Our plan involves documenting and sharing lessons learned, challenges, successes, policies and procedures, and building plans.

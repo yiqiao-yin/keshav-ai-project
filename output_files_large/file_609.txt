@@ -1,0 +1,8 @@
+### Human: What is the name of the church?
+### Assistant: Columba Catholic Church
+
+### Human: Where is the church located?
+### Assistant: Oakland
+
+### Human: What is the street address of the church?
+### Assistant: 11) St

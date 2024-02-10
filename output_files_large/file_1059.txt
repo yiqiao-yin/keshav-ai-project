@@ -1,0 +1,5 @@
+### Human: What is YSA committed to with their "100 Homes for 100 Homeless Youth" campaign?
+### Assistant: YSA is committed to providing affordable, permanent housing through additional Tiny House Villages and other models of affordable housing. 
+
+### Human: Why are Tiny Houses considered a common sense solution to the housing crisis?
+### Assistant: Tiny Houses are considered a common sense solution to the housing crisis because they address the long-term need for affordable, permanent housing in a practical and sustainable way.

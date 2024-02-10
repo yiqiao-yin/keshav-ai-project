@@ -1,0 +1,6 @@
+### Human: When does the Fine Art program take place?
+### Assistant: The Fine Art program happens from 3:30-6:30pm.
+### Human: What days of the week does the Fine Art program run?
+### Assistant: The Fine Art program runs every Monday through Friday.
+### Human: Where does the Fine Art program take place?
+### Assistant: The Fine Art program takes place in the YSA studio.

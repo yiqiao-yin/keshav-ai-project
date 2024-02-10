@@ -1,0 +1,14 @@
+### Human:
+### Assistant: What are some religious establishments in Oakland and Berkeley?
+
+### Human:
+### Assistant: John's Episcopal Church is located in Oakland.
+
+### Human:
+### Assistant: Where is Strawberry Creek Friends Meeting located?
+ 
+### Human:
+### Assistant: Temple Beth Abraham is located in Oakland.
+
+### Human:
+### Assistant: Where is Temple Sinai located?

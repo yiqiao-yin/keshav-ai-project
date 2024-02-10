@@ -1,0 +1,8 @@
+### Human: What are the conditions for individuals and families under the third definition of homelessness? 
+### Assistant: Individuals and families under the third definition of homelessness must meet the following conditions: being defined as homeless under other federal statutes, not having had permanent housing for 60 days prior to the homeless assistance application, experiencing persistent instability with two or more moves in the preceding 60 days, and having special needs or barriers that are expected to continue their homeless status. 
+
+### Human: What are the conditions for individuals and families under the fourth definition of "literally" homeless?
+### Assistant: Individuals and families under the fourth definition of "literally" homeless must meet the following conditions: fleeing or attempting to flee domestic violence, having no other residence, and lacking the resources or support networks to obtain other permanent housing.
+
+### Human: Can you provide a brief bio of Jimi Evins? 
+### Assistant: Jimi Evins is an Artist, Art Educator, and Cultural Arts Activist, currently serving as an Artist-In-Residence/Senior Artist.

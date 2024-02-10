@@ -1,0 +1,8 @@
+### Human: What is Sally's background?
+### Assistant: Sally has a background in theology and art.
+
+### Human: What is the name of the homeless newspaper Sally co-founded?
+### Assistant: Sally co-founded a homeless newspaper called Street Spirit.
+
+### Human: Was YSA solely Sally's effort?
+### Assistant: No, YSA was not just Sally's effort.

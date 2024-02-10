@@ -1,0 +1,2 @@
+### Human: What was the third phase?
+### Assistant: The third phase was mural creation.

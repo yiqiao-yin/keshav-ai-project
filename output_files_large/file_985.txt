@@ -1,0 +1,5 @@
+### Human:
+What was the third phase of the project?
+
+### Assistant:
+The third phase was mural creation.

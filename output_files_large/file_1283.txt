@@ -1,0 +1,4 @@
+### Human:
+What is the purpose of documenting and sharing lessons learned, challenges, successes, policies and procedures, and building plans?
+### Assistant:
+The purpose is to ensure the knowledge and experiences are captured and shared for future reference and improvement.

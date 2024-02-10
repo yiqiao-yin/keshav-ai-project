@@ -1,0 +1,5 @@
+### Human:
+What do all residents develop upon move-in?
+
+### Assistant:
+All residents develop written educational and/or vocational plans upon move-in.

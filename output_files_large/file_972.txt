@@ -1,0 +1,5 @@
+### Human:
+How many Tiny Houses were completed in 2020?
+
+### Assistant:
+26 Tiny Houses were completed in 2020.

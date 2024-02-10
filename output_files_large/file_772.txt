@@ -1,0 +1,5 @@
+### Human: What is the name of the wellness center located at 629 Oakland Ave, Oakland CA 94611?
+### Assistant: The name of the wellness center located at 629 Oakland Ave, Oakland CA 94611 is Towne House (BACS Wellness Center).
+
+### Human: What are the opening hours of Towne House (BACS Wellness Center)?
+### Assistant: Towne House (BACS Wellness Center) is open from Monday to Wednesday, 1:00 pm - 4:00 pm.

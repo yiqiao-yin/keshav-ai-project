@@ -1,0 +1,2 @@
+### Human: What is the goal of the fundraising efforts?
+### Assistant: The goal is to raise $100,000 in Case Management funds.

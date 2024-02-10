@@ -1,0 +1,2 @@
+### Human: What is the goal of YSA's "100 Homes for 100 Homeless Youth" campaign?
+### Assistant: The goal of YSA's campaign is to address the long-term need for affordable, permanent housing.

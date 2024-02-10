@@ -1,0 +1,12 @@
+### Human:
+What is the fundraising goal for the Case Management funds?
+### Assistant:
+$100,000 is the fundraising goal for the Case Management funds.
+### Human:
+Who is the targeted source of funding?
+### Assistant:
+The City of Berkeley is the targeted source of funding.
+### Human:
+How will HCEB's experience benefit the Village and the community?
+### Assistant:
+HCEB's extensive supportive housing management experience will benefit both the Village and the community.

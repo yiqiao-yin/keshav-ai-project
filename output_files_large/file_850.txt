@@ -1,0 +1,9 @@
+### Human:
+What types of efforts does YSA provide for youth?
+### Assistant:
+YSA provides innovative jobs training and placement efforts for youth. 
+
+### Human:
+What role do youth play in community revitalization according to YSA?
+### Assistant:
+Youth are engaged as leaders in community revitalization efforts by YSA.

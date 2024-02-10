@@ -1,0 +1,8 @@
+### Human: What year is it?
+### Assistant: The year is 2023.
+
+### Human: What is the purpose of the Tiny House Empowerment Village?
+### Assistant: The purpose of the Tiny House Empowerment Village is to improve the Village.
+
+### Human: How many congregations are involved in the project?
+### Assistant: Over 25 congregations are involved in the Tiny House Empowerment Village project.

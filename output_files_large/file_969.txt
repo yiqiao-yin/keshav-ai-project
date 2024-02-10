@@ -1,0 +1,2 @@
+### Human: How many volunteers participated in the build days in summer and fall 2019?
+### Assistant: Over 500 volunteers participated in the build days in summer and fall 2019.

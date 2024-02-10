@@ -1,0 +1,11 @@
+### Human:
+What is Allen's educational background?
+
+### Assistant:
+Allen has a master's degree in social work.
+
+### Human:
+What profession is Allen licensed in?
+
+### Assistant:
+Allen is a licensed clinical social worker.

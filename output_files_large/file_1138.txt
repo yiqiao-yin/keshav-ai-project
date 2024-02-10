@@ -1,0 +1,5 @@
+### Human:
+What is the basis for determining the rental fees in this model?
+
+### Assistant:
+The rental fees in this model are determined based on a sliding scale, taking into account the ability to pay.

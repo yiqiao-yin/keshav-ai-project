@@ -1,0 +1,2 @@
+### Human: How much money has been raised for the Village from the City of Oakland?
+### Assistant: It has raised $360,000 in ongoing operating funds for the Village from the City of Oakland.

@@ -1,0 +1,4 @@
+### Human: What are the operating hours for Towne House (BACS Wellness Center) from Monday to Wednesday?
+### Assistant: The operating hours for Towne House (BACS Wellness Center) from Monday to Wednesday are between 1 and 4 pm.
+### Human: How can I contact Towne House (BACS Wellness Center)?
+### Assistant: You can contact Towne House (BACS Wellness Center) at the number (510) 658-9480.

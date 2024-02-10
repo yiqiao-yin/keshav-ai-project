@@ -1,0 +1,8 @@
+### Human:
+### Assistant: How many people are planning to move into the Village in February 2021?
+### Human:
+### Assistant: Can you provide the total count of youth and Resident Assistants who will be moving into the Village?
+### Human:
+### Assistant: Who will be moving into the Village in February 2021?
+### Human:
+### Assistant: How many Resident Assistants are included in the group moving into the Village?

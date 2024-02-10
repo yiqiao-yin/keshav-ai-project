@@ -1,0 +1,11 @@
+### Human:
+How many homeless young people are sleeping on the streets in Alameda County on a given night?
+
+### Assistant:
+There are more than 1,700 homeless young people sleeping on the streets in Alameda County on a given night.
+
+### Human:
+How many youth-designated beds are available in shelters and affordable housing in Alameda County?
+
+### Assistant:
+There are fewer than 36 youth-designated beds in shelters and affordable housing in Alameda County.

@@ -1,0 +1,4 @@
+### Human:
+What happened during the third phase?
+### Assistant:
+Mural creation happened during the third phase.

@@ -1,0 +1,11 @@
+### Human:
+What is the message from the Tiny House Empowerment Village Team?
+
+### Assistant:
+Take care, The Tiny House Empowerment Village Team.
+
+### Human:
+What is the first option to see if you qualify to take a Crisis Assessment?
+
+### Assistant:
+To call in.

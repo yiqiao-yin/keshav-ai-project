@@ -1,0 +1,17 @@
+### Human:
+What is HCEB's area of operation and how long have they been doing this work?
+
+### Assistant:
+HCEB operates in Alameda and Contra Costa Counties and has been doing this work since 1996.
+
+### Human:
+Who does HCEB work in partnership with?
+
+### Assistant:
+HCEB works in partnership with individuals, their families, and service providers.
+
+### Human:
+What was the main challenge identified by the youth in YSA's program?
+
+### Assistant:
+The youth in YSA's program identified the lack of stable and affordable housing in the Bay Area as their number-one obstacle in meeting their goals.

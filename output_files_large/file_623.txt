@@ -1,0 +1,8 @@
+### Human: How can I get my congregation involved?
+### Assistant: Email us to get your congregation involved.
+
+### Human: What is your organization's focus?
+### Assistant: Our focus is on creating housing for at-risk youth.
+
+### Human: Does your work end with the Tiny House Empowerment Village?
+### Assistant: No, our work does not end with the Tiny House Empowerment Village, we continue to strive for more projects and initiatives.

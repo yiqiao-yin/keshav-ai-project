@@ -1,0 +1,5 @@
+### Human:
+How many houses did volunteers build in 2020?
+
+### Assistant:
+Volunteers built 12 houses in 2020.

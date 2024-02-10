@@ -1,0 +1,4 @@
+### Human:
+What will residents be asked to participate in?
+### Assistant:
+Residents will be asked to participate in monthly cleaning and property maintenance.

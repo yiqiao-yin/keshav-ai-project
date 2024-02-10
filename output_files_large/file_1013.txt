@@ -1,0 +1,5 @@
+### Human:
+What was the phase that involved moving people in?
+
+### Assistant:
+The fourth phase involved moving people in.

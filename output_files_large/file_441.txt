@@ -1,0 +1,14 @@
+### Human:
+How many houses have been built as of 2023? 
+### Assistant:
+26 houses have been built as of 2023. 
+
+### Human:
+Who designed the houses?
+### Assistant:
+The houses were designed by youth.
+
+### Human:
+How many volunteers participated in the builds?
+### Assistant:
+Over 2,000 volunteers participated in the builds.

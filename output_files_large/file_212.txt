@@ -1,0 +1,2 @@
+### Human: What are the conditions that individuals and families must meet under the third definition of homelessness?
+### Assistant: Individuals and families under the third definition must meet the following conditions: being defined as homeless under other federal statutes, not having had permanent housing for the 60 days prior to the homeless assistance application, experiencing persistent instability with two or more moves in the last 60 days, and being expected to continue in such a status due to special needs or barriers.

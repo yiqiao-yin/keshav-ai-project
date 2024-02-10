@@ -1,0 +1,4 @@
+### Human:
+When do the youth of the Fine Art program hold a Poetry Slam?
+### Assistant:
+Every third Saturday of the month.

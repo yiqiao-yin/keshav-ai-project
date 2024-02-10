@@ -1,0 +1,8 @@
+### Human:
+### Assistant: What is the schedule for calling 2-1-1 during the weekdays?
+
+### Human:
+### Assistant: When can I call 2-1-1 from Monday to Friday?
+
+### Human:
+### Assistant: Can you provide me with the hours for calling 2-1-1 on weekdays?

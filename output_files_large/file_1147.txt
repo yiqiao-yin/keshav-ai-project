@@ -1,0 +1,5 @@
+### Human:
+What will the rents be used for?
+
+### Assistant:
+To cover the cost of utilities and operations.

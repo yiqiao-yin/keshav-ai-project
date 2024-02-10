@@ -1,0 +1,2 @@
+### Human: What organizations did you work with to complete the Tiny House Village?
+### Assistant: We worked in partnership with non-profit developer Housing Consortium of the East Bay and the local interfaith community.

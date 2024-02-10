@@ -1,0 +1,2 @@
+### Human: How many houses have been built as of 2023?
+### Assistant: We've built 26 houses as of 2023.

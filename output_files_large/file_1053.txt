@@ -1,0 +1,6 @@
+### Human: How is YSA addressing the long-term need for affordable, permanent housing?
+### Assistant: YSA has committed to a "100 Homes for 100 Homeless Youth" campaign over the next ten years through additional Tiny House Villages and other models of affordable housing.
+### Human: What is the purpose of the "100 Homes for 100 Homeless Youth" campaign?
+### Assistant: The purpose of the campaign is to address the long-term need for affordable, permanent housing.
+### Human: What is YSA's approach to addressing the housing crisis?
+### Assistant: YSA believes that Tiny Houses are a common sense solution to the housing crisis.

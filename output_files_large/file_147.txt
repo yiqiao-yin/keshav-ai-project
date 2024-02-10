@@ -1,0 +1,13 @@
+### Human:
+### Assistant:
+
+Who is the financial manager/consultant at MODIS?
+### Assistant:
+Saphonia is the financial manager/consultant at MODIS.
+
+### Human:
+### Assistant:
+
+Who is the treasurer of the YSA board?
+### Assistant:
+Jonathann Giammarco is the treasurer of the YSA board.

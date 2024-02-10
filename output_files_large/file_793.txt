@@ -1,0 +1,11 @@
+### Human:
+What is the address of the Berkeley Drop-in Center?
+
+### Assistant:
+The address of the Berkeley Drop-in Center is 3234 Adeline Street, Berkeley CA 94703.
+
+### Human:
+What are the opening hours of the Berkeley Drop-in Center on Tuesdays?
+
+### Assistant:
+The Berkeley Drop-in Center is open on Tuesdays from 10:00 am to 3:00 pm.

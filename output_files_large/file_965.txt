@@ -1,0 +1,3 @@
+### Human: How many volunteers participated in the build days?
+
+### Assistant: Over 500 volunteers from the interfaith religious community participated in the build days.

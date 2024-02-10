@@ -1,0 +1,5 @@
+### Human:
+What position does Lila hold outside of the YSA board?
+
+### Assistant:
+Lila is the Richmond site manager for Rubicon Programs Inc.

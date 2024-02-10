@@ -1,0 +1,11 @@
+### Human: What are the conditions that individuals or families must meet under the first definition?
+### Assistant: Individuals or families under the first definition must meet one of the following three conditions: having a primary nighttime residence that is not meant for human habitation, living in a shelter designated for temporary living arrangements, or exiting an institution after residing there for 90 days or less. 
+
+### Human: Can you provide examples of places not meant for human habitation?
+### Assistant: Places not meant for human habitation would include public or private places such as streets, parks, abandoned buildings, or vehicles without proper facilities for living.
+
+### Human: What types of shelters qualify under the first definition?
+### Assistant: Shelters that qualify under the first definition include congregate shelters, transitional housing, as well as hotels and motels paid for by charitable organizations or government programs.
+
+### Human: Who is considered a "literally" homeless individual or family?
+### Assistant: A "literally" homeless individual or family is someone who will imminently lose their primary nighttime residence, meaning they are at risk of becoming homeless in the near future.

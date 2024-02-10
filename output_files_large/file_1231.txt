@@ -1,0 +1,2 @@
+### Human: What is required of all residents upon move-in?
+### Assistant: All residents are required to develop written educational and/or vocational plans upon move-in.

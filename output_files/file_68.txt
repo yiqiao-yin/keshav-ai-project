@@ -1,0 +1,6 @@
+### Human: What is the reason for no longer keeping our own waitlist?
+### Assistant: Due to certain reasons, we will no longer be keeping our own waitlist.
+### Human: Who is now eligible for consideration?
+### Assistant: The only people who are now eligible are those that qualify to take Coordinated Entry's Crisis Assessment.
+### Human: How can I be considered for a spot at the Tiny House Empowerment Village?
+### Assistant: To be considered, you'll need to either drop in or call a Housing Resource Center and ask if you qualify to take a Crisis Assessment, mentioning that you want to be referred to the Tiny House Empowerment Village shelter.

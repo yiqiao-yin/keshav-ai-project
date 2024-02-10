@@ -1,0 +1,18 @@
+### Human: What do all residents develop upon move-in?
+### Assistant: Written educational and/or vocational plans.
+### Human: Is it mandatory for all residents to develop these plans?
+### Assistant: Yes, all residents are required to develop written educational and/or vocational plans upon move-in.
+### Human: When do residents develop these plans?
+### Assistant: Residents develop these plans upon move-in.
+### Human: Are these plans verbal or written?
+### Assistant: These plans are written.
+### Human: What is the purpose of these plans?
+### Assistant: The purpose of these plans is to guide the educational and vocational development of the residents.
+### Human: Who is responsible for developing these plans?
+### Assistant: The residents themselves are responsible for developing these plans. 
+### Human: Are these plans individualized or generic?
+### Assistant: These plans are individualized, tailored to each resident's specific needs and goals.
+### Human: What happens if a resident does not develop a plan?
+### Assistant: It is mandatory for all residents to develop these plans, so if a resident does not comply, there may be consequences or enforcement measures in place.
+### Human: Are these plans revisited and updated periodically?
+### Assistant: Yes, these plans are revisited and updated periodically to ensure they remain relevant and aligned with the residents' evolving needs and aspirations.

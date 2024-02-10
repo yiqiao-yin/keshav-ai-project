@@ -1,0 +1,20 @@
+### Human: According to whom has art making been a passion since childhood?
+### Assistant: According to Jimi.
+### Human: What has been Jimi's passion since childhood?
+### Assistant: Art making.
+### Human: When did Jimi's passion for art making start?
+### Assistant: Since childhood.
+### Human: What has Jimi been passionate about since he was a child?
+### Assistant: Art making.
+### Human: Who has had a passion for art making since childhood?
+### Assistant: Jimi.
+### Human: What does Jimi say has been his passion since he was a child?
+### Assistant: Art making.
+### Human: According to Jimi, when did his passion for art making start?
+### Assistant: Since he was a child.
+### Human: What has been Jimi's passion since he was a child?
+### Assistant: Art making.
+### Human: Who says that art making has been their passion since childhood?
+### Assistant: Jimi.
+### Human: According to whom has art making been a passion since childhood?
+### Assistant: According to Jimi.

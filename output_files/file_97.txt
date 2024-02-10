@@ -1,0 +1,20 @@
+### Human: How many houses were built in 2020?
+### Assistant: Volunteers from the community built 12 more houses in 2020.
+### Human: How many completed Tiny Houses are there now?
+### Assistant: There are now a total of 26 completed Tiny Houses.
+### Human: Was there any construction activity in 2020?
+### Assistant: Yes, volunteers from the community built 12 more houses in 2020.
+### Human: How many Tiny Houses were completed overall?
+### Assistant: Overall, a total of 26 Tiny Houses were completed.
+### Human: Can you give me the number of houses built in 2020?
+### Assistant: Volunteers built a total of 12 houses in 2020.
+### Human: How much progress was made in constructing Tiny Houses?
+### Assistant: Volunteers building 12 more houses resulted in a total of 26 completed Tiny Houses.
+### Human: Were there any volunteers involved in constructing houses?
+### Assistant: Yes, volunteers from the community were involved in constructing the houses.
+### Human: Can you tell me the current number of completed Tiny Houses?
+### Assistant: The current number of completed Tiny Houses is 26.
+### Human: How many new houses were built by volunteers?
+### Assistant: Volunteers built 12 more houses.
+### Human: What was the outcome of the volunteers' efforts?
+### Assistant: The outcome of the volunteers' efforts was the completion of 12 more houses.

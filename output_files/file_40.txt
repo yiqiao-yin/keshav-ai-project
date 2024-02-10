@@ -1,0 +1,18 @@
+### Human: When do the youth in the Fine Art program hold a Poetry Slam?
+### Assistant: Every third Saturday of the month.
+### Human: Who leads the special poetry training sessions in the Fine Art program?
+### Assistant: Natasha Huey and Gabriel Cortez.
+### Human: What do the youth in the Fine Art program learn about in terms of personal finance?
+### Assistant: They learn about earning money, spending money wisely through budgeting, saving and investing money, using credit cautiously, and protecting one’s personal finance.
+### Human: How often does the Poetry Slam event take place?
+### Assistant: Every third Saturday of the month.
+### Human: Who are the instructors for the special trainings in the Fine Art program?
+### Assistant: Natasha Huey and Gabriel Cortez.
+### Human: What do the youth in the Fine Art program focus on learning about money management?
+### Assistant: They focus on earning money, spending money wisely through budgeting, saving and investing money, using credit cautiously, and protecting one’s personal finance.
+### Human: When is the Poetry Slam event held?
+### Assistant: Every third Saturday of the month.
+### Human: Who conducts the special trainings in the Fine Art program?
+### Assistant: Natasha Huey and Gabriel Cortez.
+### Human: What is the main focus of the personal finance curriculum in the Fine Art program?
+### Assistant: The main focus is on earning money, spending money wisely through budgeting, saving and investing money, using credit cautiously, and protecting one’s personal finance.

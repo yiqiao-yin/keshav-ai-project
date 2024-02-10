@@ -1,0 +1,29 @@
+### Human: When did HCEB start doing work in Alameda and Contra Costa Counties?
+### Assistant: HCEB has been doing this work in Alameda and Contra Costa Counties since 1996.
+
+### Human: Who does HCEB work in partnership with?
+### Assistant: HCEB works in partnership with individuals, their families, and service providers.
+
+### Human: What did the youth in YSA's program identify as the number-one obstacle?
+### Assistant: Eight years ago, the youth in YSA's program identified the lack of stable and affordable housing in the Bay Area as the number-one obstacle.
+
+### Human: How long has HCEB been managing numerous housing programs?
+### Assistant: HCEB has been managing numerous housing programs since 1996.
+
+### Human: Where does HCEB do their work?
+### Assistant: HCEB does their work in Alameda and Contra Costa Counties.
+
+### Human: Who are some of the partners that HCEB works with?
+### Assistant: HCEB works in partnership with individuals, their families, and service providers.
+
+### Human: When did the youth in YSA's program identify the lack of stable and affordable housing?
+### Assistant: The youth in YSA's program identified the lack of stable and affordable housing eight years ago.
+
+### Human: What work does HCEB do?
+### Assistant: HCEB manages numerous housing programs.
+
+### Human: How long ago did the youth in YSA's program identify the lack of stable and affordable housing?
+### Assistant: The youth in YSA's program identified the lack of stable and affordable housing eight years ago.
+
+### Human: Which counties does HCEB work in?
+### Assistant: HCEB works in Alameda and Contra Costa Counties.

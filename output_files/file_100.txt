@@ -1,0 +1,29 @@
+### Human: How many houses will have completed murals by opening day?
+### Assistant: All 26 houses will have completed murals by opening day.
+
+### Human: What will be the result of completing the murals?
+### Assistant: The result will be a mobile mural garden of tiny houses on wheels.
+
+### Human: Will all 26 houses have completed murals by opening day?
+### Assistant: Yes, all 26 houses will have completed murals by opening day.
+
+### Human: What kind of garden will be created by the completed murals?
+### Assistant: The completed murals will create a mobile mural garden of tiny houses on wheels.
+
+### Human: How many houses are included in the mobile mural garden?
+### Assistant: The mobile mural garden consists of 26 houses.
+
+### Human: When will all the houses complete their murals?
+### Assistant: All houses will complete their murals by opening day.
+
+### Human: What will the murals be displayed on?
+### Assistant: The murals will be displayed on tiny houses on wheels.
+
+### Human: What is the purpose of the completed murals?
+### Assistant: The purpose of the completed murals is to create a mobile mural garden.
+
+### Human: Can you describe the mural garden that will be created?
+### Assistant: The mural garden that will be created is a garden of tiny houses on wheels, with completed murals on each house.
+
+### Human: In how many days will the murals be completed?
+### Assistant: The murals will be completed by opening day.

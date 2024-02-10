@@ -1,0 +1,26 @@
+### Human: What are the three conditions for individuals or families under the first definition?
+### Assistant: The three conditions for individuals or families under the first definition are having a primary nighttime residence that is not meant for human habitation, living in a shelter, or leaving an institution after residing there for 90 days or less.
+
+### Human: What does it mean to have a primary nighttime residence not meant for human habitation?
+### Assistant: Having a primary nighttime residence not meant for human habitation refers to living in a public or private place that is not intended for people to live in, such as streets, cars, parks, or abandoned buildings.
+
+### Human: What types of shelters qualify as temporary living arrangements?
+### Assistant: Temporary living arrangements can include congregate shelters, transitional housing, hotels, or motels paid for by charitable organizations or government programs.
+
+### Human: Who falls under the second definition of a "literally" homeless individual or family?
+### Assistant: The second definition of a "literally" homeless individual or family includes those who are at risk of imminently losing their primary nighttime residence.
+
+### Human: What is the primary nighttime residence?
+### Assistant: The primary nighttime residence refers to the place where an individual or family typically sleeps and considers as their home.
+
+### Human: Can a temporary living arrangement be considered a primary nighttime residence?
+### Assistant: Yes, a temporary living arrangement, such as a shelter or transitional housing, can be considered a primary nighttime residence.
+
+### Human: How long must someone reside in an emergency shelter or place not meant for human habitation to be considered under the first definition?
+### Assistant: To meet the conditions of the first definition, an individual must have resided in an emergency shelter or a place not meant for human habitation immediately before entering an institution, and they must have stayed there for 90 days or less.
+
+### Human: Can living in a hotel or motel paid for by charitable organizations be considered a temporary living arrangement?
+### Assistant: Yes, living in a hotel or motel paid for by charitable organizations can be considered a temporary living arrangement under the first definition.
+
+### Human: Are congregate shelters and transitional housing included in the second definition?
+### Assistant: No, congregate shelters and transitional housing are not explicitly mentioned in the second definition.

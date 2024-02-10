@@ -1,0 +1,29 @@
+### Human:
+### Assistant: What days can I call 2-1-1?
+
+### Human:
+### Assistant: What is the time frame during which I can call 2-1-1?
+
+### Human:
+### Assistant: How many days a week can I call 2-1-1?
+
+### Human:
+### Assistant: What is the phone number I should call?
+
+### Human:
+### Assistant: What is the availability of calling 2-1-1?
+
+### Human:
+### Assistant: Can you provide me with the phone number for 2-1-1?
+
+### Human:
+### Assistant: When can I call for assistance?
+
+### Human:
+### Assistant: What are the hours of operation for 2-1-1?
+
+### Human:
+### Assistant: What is the contact information for 2-1-1?
+
+### Human:
+### Assistant: What are the specific times that I can call 2-1-1?

@@ -1,0 +1,29 @@
+### Human: How do we receive referrals for job openings?
+### Assistant: When we have any openings, we will be sent referrals directly from Coordinated Entry for people ranking at the top of that list.
+
+### Human: Where do the referrals for our job openings come from?
+### Assistant: Referrals for our job openings come directly from Coordinated Entry.
+
+### Human: How are the referrals prioritized?
+### Assistant: The referrals are prioritized based on the ranking of the individuals on the Coordinated Entry list.
+
+### Human: What happens when we have job openings?
+### Assistant: When we have job openings, Coordinated Entry sends us referrals for individuals at the top of their list.
+
+### Human: Who sends us referrals for job openings?
+### Assistant: Referrals for job openings are sent to us directly by Coordinated Entry.
+
+### Human: How do we know who to contact for job openings?
+### Assistant: Coordinated Entry provides us with a list of referrals, and we contact the individuals at the top of that list for job openings.
+
+### Human: Do we receive referrals directly from Coordinated Entry?
+### Assistant: Yes, we receive referrals directly from Coordinated Entry for job openings.
+
+### Human: Are the referrals we receive from Coordinated Entry ranked?
+### Assistant: Yes, the referrals we receive from Coordinated Entry are ranked based on the individuals' position on their list.
+
+### Human: How do we fill our job openings?
+### Assistant: We fill our job openings by contacting and considering individuals referred to us by Coordinated Entry.
+
+### Human: Who are the first ones to be referred for job openings?
+### Assistant: The first ones to be referred for our job openings are the individuals ranking at the top of the Coordinated Entry list.

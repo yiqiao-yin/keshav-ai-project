@@ -1,0 +1,8 @@
+### Human: Regular case management meetings help support each participant? 
+### Assistant: Yes, regular case management meetings help support each participant by updating plans and timelines to track when goals are met.
+
+### Human: How does community accountability help each participant? 
+### Assistant: Community accountability helps each participant by providing support and updating plans and timelines to track when goals are met.
+
+### Human: What is assessed regularly? 
+### Assistant: Life skills, health, and wellness are assessed regularly to ensure progress and well-being.

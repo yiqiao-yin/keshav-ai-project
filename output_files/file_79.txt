@@ -1,0 +1,18 @@
+### Human: What is the name and address of Option 3?
+### Assistant: The name is Berkeley Drop-in Center and its address is 3234 Adeline Street, Berkeley CA 94703.
+### Human: When is the Berkeley Drop-in Center open?
+### Assistant: It is open on Tuesday from 10:00 am to 3:00 pm.
+### Human: What is the address of the Berkeley Drop-in Center?
+### Assistant: The address of the Berkeley Drop-in Center is 3234 Adeline Street, Berkeley CA 94703.
+### Human: What are the operating hours of the Berkeley Drop-in Center?
+### Assistant: The Berkeley Drop-in Center is open from 10:00 am to 3:00 pm on Tuesdays.
+### Human: Where is Option 3 located?
+### Assistant: Option 3, the Berkeley Drop-in Center, is located at 3234 Adeline Street, Berkeley CA 94703.
+### Human: When can I visit the Berkeley Drop-in Center?
+### Assistant: You can visit the Berkeley Drop-in Center on Tuesdays from 10:00 am to 3:00 pm.
+### Human: I need the name and address of Option 3.
+### Assistant: Option 3 is called the Berkeley Drop-in Center and it is located at 3234 Adeline Street, Berkeley CA 94703.
+### Human: What are the open hours of the Berkeley Drop-in Center?
+### Assistant: The Berkeley Drop-in Center is open from 10:00 am to 3:00 pm on Tuesdays.
+### Human: Can you tell me where the Berkeley Drop-in Center is?
+### Assistant: The Berkeley Drop-in Center is located at 3234 Adeline Street, Berkeley CA 94703.

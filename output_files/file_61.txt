@@ -1,0 +1,14 @@
+### Human:
+Which church is located in Oakland?
+### Assistant:
+John's Episcopal Church is located in Oakland.
+
+### Human:
+Where is the Strawberry Creek Friends Meeting located?
+### Assistant:
+The Strawberry Creek Friends Meeting is located in Berkeley.
+
+### Human:
+Which temple is situated in Oakland?
+### Assistant:
+Temple Beth Abraham and Temple Sinai are both situated in Oakland.

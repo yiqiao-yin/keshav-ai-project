@@ -1,0 +1,14 @@
+### Human: What is one of the goals at YSA?
+### Assistant: Introducing new methods and materials in the art making process to youth.
+
+### Human: How has Jimi's art been influenced?
+### Assistant: Jimi's art has been influenced by his travels to Africa, Europe, the Caribbean, and South America.
+
+### Human: What is Alastair Boone's position?
+### Assistant: Alastair Boone is the Editor in Chief of Street Spirit.
+
+### Human: When did Alastair Boone join YSA?
+### Assistant: Alastair Boone joined YSA in July 2018.
+
+### Human: What is the email address of Alastair Boone?
+### Assistant: The email address of Alastair Boone is evinsart@aol.com.

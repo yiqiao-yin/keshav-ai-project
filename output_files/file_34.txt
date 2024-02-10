@@ -1,0 +1,4 @@
+### Human: Where was Boone born?
+### Assistant: Boone was born in San Francisco.
+### Human: What degree did Boone earn?
+### Assistant: Boone earned a BA from UC Berkeley in 2016.

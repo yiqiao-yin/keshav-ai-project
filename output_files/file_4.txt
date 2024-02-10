@@ -1,0 +1,29 @@
+### Human: What is the main focus of Young Aspirations, Young Artists (YaYa)?
+### Assistant: The main focus of Young Aspirations, Young Artists (YaYa) is to help young people from BIPOC and LGBTQIA+ communities gain important art and business skills that can lead to job opportunities.
+
+### Human: What are the goals of the organization?
+### Assistant: The goals of the organization are to help youth develop skills for earning income, support them in achieving their personal and professional goals, teach them about managing money and understanding finances, and empower them to make positive changes.
+
+### Human: How does Youth Spirit Artworks aim to transform young people's lives?
+### Assistant: Youth Spirit Artworks aims to transform young people's lives by building their confidence, encouraging positive relationships within families and communities, advocating for their well-being, and empowering them to make positive changes.
+
+### Human: Who founded Youth Spirit Artworks?
+### Assistant: Youth Spirit Artworks was founded by Sally Hindman, a dedicated Berkeley resident with a lot of experience in helping homeless people.
+
+### Human: What is the main target audience for the organization?
+### Assistant: The main target audience for the organization is young people from BIPOC and LGBTQIA+ communities.
+
+### Human: What kind of job training does the organization provide?
+### Assistant: The organization provides job training that understands the life experiences of young people and helps them develop skills for earning income.
+
+### Human: How does Young Aspirations, Young Artists (YaYa) support youth?
+### Assistant: Young Aspirations, Young Artists (YaYa) supports youth by providing job training, assisting them in achieving their personal and professional goals, and advocating for their well-being.
+
+### Human: What does the organization teach youth about?
+### Assistant: The organization teaches youth about managing money and understanding finances, especially for those who come from disadvantaged families with a different understanding of money.
+
+### Human: What are some specific focuses of Young Aspirations, Young Artists (YaYa)?
+### Assistant: Some specific focuses of Young Aspirations, Young Artists (YaYa) include building confidence, encouraging positive relationships within families and communities, advocating for the well-being of youth, and promoting nonviolence.
+
+### Human: What is the purpose of Youth Spirit Artworks?
+### Assistant: The purpose of Youth Spirit Artworks is to help homeless people and transform the lives of young people.

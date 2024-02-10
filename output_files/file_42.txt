@@ -1,0 +1,29 @@
+### Human: What do YSA youth in the Art Entrepreneurship and Sales program do in Berkeley?
+### Assistant: They sell their art at local businesses and receive half the proceeds of their sales.
+
+### Human: What do the youth learn in the Art Entrepreneurship and Sales program?
+### Assistant: They learn about earning money, spending money wisely through budgeting, saving and investing money, using credit cautiously, and protecting one’s personal finance.
+
+### Human: Do the youth receive any formal education in the program?
+### Assistant: Yes, they receive an accredited curriculum.
+
+### Human: How often do the youth sell their art?
+### Assistant: They sell their art weekly.
+
+### Human: Where do the youth sell their art?
+### Assistant: They sell their art at local businesses in Berkeley.
+
+### Human: What portion of the sales do the youth receive?
+### Assistant: They receive half the proceeds of their sales.
+
+### Human: What are some topics covered in the curriculum?
+### Assistant: The curriculum covers topics such as earning money, budgeting, saving and investing money, using credit cautiously, and protecting personal finance.
+
+### Human: What is the purpose of teaching the youth about personal finance?
+### Assistant: The purpose is to educate them about managing money wisely and protecting their personal finances.
+
+### Human: How does the program help the youth understand the value of money?
+### Assistant: Through the program, the youth learn about earning money through their art sales and gain hands-on experience in managing their finances.
+
+### Human: What skills do the youth develop in the program?
+### Assistant: The youth develop skills in art entrepreneurship, sales, budgeting, saving money, investing money, and credit management.

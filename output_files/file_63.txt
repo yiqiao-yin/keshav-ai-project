@@ -1,0 +1,29 @@
+### Human: What is Youth Spirit Artworks engaged in?
+### Assistant: Youth Spirit Artworks is engaged in a ten-year community organizing campaign to create "100 Homes for 100 Homeless Youth" in the East Bay Area.
+
+### Human: How many homes are Youth Spirit Artworks aiming to create?
+### Assistant: Youth Spirit Artworks aims to create 100 homes for 100 homeless youth.
+
+### Human: Where is the focus of Youth Spirit Artworks' housing campaign?
+### Assistant: The focus of Youth Spirit Artworks' housing campaign is in the East Bay Area.
+
+### Human: How long is Youth Spirit Artworks' community organizing campaign?
+### Assistant: Youth Spirit Artworks' community organizing campaign is ten years long.
+
+### Human: What is the purpose of Youth Spirit Artworks' campaign?
+### Assistant: The purpose of Youth Spirit Artworks' campaign is to address the dire need for youth housing.
+
+### Human: Who is the target population for Youth Spirit Artworks' housing initiative?
+### Assistant: The target population for Youth Spirit Artworks' housing initiative is homeless youth.
+
+### Human: How many homes does Youth Spirit Artworks aim to create for homeless youth?
+### Assistant: Youth Spirit Artworks aims to create 100 homes for homeless youth.
+
+### Human: Where is the geographical location of the housing campaign?
+### Assistant: The housing campaign is focused on the East Bay Area.
+
+### Human: What is the name of the initiative?
+### Assistant: The name of the initiative is "100 Homes for 100 Homeless Youth."
+
+### Human: What is the dire need that Youth Spirit Artworks is responding to?
+### Assistant: Youth Spirit Artworks is responding to the dire need for youth housing.

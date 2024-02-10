@@ -1,0 +1,14 @@
+### Human: What is the goal of Youth Spirit Artworks?
+### Assistant: The goal of Youth Spirit Artworks is to empower and transform the lives of homeless and underserved low-income Bay Area youth.
+### Human: What age group does Youth Spirit Artworks serve?
+### Assistant: Youth Spirit Artworks serves young people between the ages of 16 and 25.
+### Human: What services does Youth Spirit Artworks provide to homeless and low-income youth?
+### Assistant: Youth Spirit Artworks provides stable homes, educational opportunities, and job training to homeless and low-income youth.
+### Human: How long has Youth Spirit Artworks been in operation?
+### Assistant: Youth Spirit Artworks has been in operation for 17 years.
+### Human: What is the mission of Youth Spirit Artworks?
+### Assistant: The mission of Youth Spirit Artworks is to break the cycle of homelessness by providing stable homes, educational opportunities, and job training.
+### Human: What is the target population of Youth Spirit Artworks?
+### Assistant: The target population of Youth Spirit Artworks is homeless and underserved low-income young people.
+### Human: Is Youth Spirit Artworks a religious organization?
+### Assistant: Youth Spirit Artworks is an interfaith job training non-profit organization.

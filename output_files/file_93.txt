@@ -1,0 +1,10 @@
+### Human: What organization led the youth team?
+### Assistant: Habitat for Humanity led the youth team.
+### Human: Who was the former West Coast Regional Manager of Habitat for Humanity?
+### Assistant: Rolf Bell was the former West Coast Regional Manager of Habitat for Humanity.
+### Human: In which months did the youth team work?
+### Assistant: The youth team worked in March and April.
+### Human: What did the youth team construct?
+### Assistant: The youth team constructed the first two houses.
+### Human: Who did the youth team partner with to construct the houses?
+### Assistant: The youth team partnered with skilled Build Leaders from the community.

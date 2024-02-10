@@ -1,0 +1,16 @@
+### Human: What organizations were involved in the development of the Tiny House Village?
+### Assistant: We worked in partnership with non-profit developer Housing Consortium of the East Bay and the local interfaith community.
+### Human: How many Tiny Houses are there in the completed Village?
+### Assistant: The completed Tiny House Village features 26 secure 8′ x 10′ Tiny Houses.
+### Human: Can you describe the features of the Tiny Houses?
+### Assistant: The Tiny Houses have murphy beds, windows, skylight, storage, electricity, furnishings, and heated floors.
+### Human: Are there communal facilities available for the residents?
+### Assistant: Yes, there are on-site communal bathrooms and showers for the residents to utilize.
+### Human: Is there a dedicated space for cooking and storing food?
+### Assistant: Yes, there is a kitchen yurt for residents to cook weekly communal meals and securely store their own food.
+### Human: Apart from housing, what other facilities are available in the Village?
+### Assistant: The Village also includes a community gathering space for meetings.
+### Human: Are there any on-site staff members to assist the residents?
+### Assistant: Yes, there are on-site Resident Assistants who live in the community.
+### Human: Are the residents actively involved in community-building activities?
+### Assistant: Yes, as part of living at the Village, all residents are engaged in building a strong and connected community.

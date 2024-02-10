@@ -1,0 +1,5 @@
+### Human: What programs are offered to the residents at the Village?
+### Assistant: All residents at the Village will take part in YSA’s core jobs training program, where they will receive wrap-around case management services and engage in youth-led workshops around healthy interpersonal relationships, restorative practices, and more.
+
+### Human: What kind of support is the community looking for?
+### Assistant: We are actively recruiting members of our community to support us with advocacy, fundraising, and building at our Habitat-for-Humanity-style builds.

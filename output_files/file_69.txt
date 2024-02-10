@@ -1,0 +1,65 @@
+### Human:
+### Assistant:
+
+If you are able to take a Crisis Assessment, what will happen next?
+### After taking a Crisis Assessment, if you meet the baseline eligibility requirements for our program, you’ll be placed on a waitlist that is ranked by level of need rather than the order in which people apply.
+
+### Human:
+### Assistant:
+
+What determines the ranking on the waitlist?
+### The ranking on the waitlist is determined by the level of need rather than the order in which people apply.
+
+### Human:
+### Assistant:
+
+Can anyone join the program?
+### No, to join the program you need to meet the baseline eligibility requirements.
+
+### Human:
+### Assistant:
+
+What are the baseline eligibility requirements for the program?
+### The specifics of the baseline eligibility requirements for the program are not provided in the given content.
+
+### Human:
+### Assistant:
+
+How can I apply for the Crisis Assessment?
+### The process of applying for a Crisis Assessment is not mentioned in the given content.
+
+### Human:
+### Assistant:
+
+Is there a limit to the number of people on the waitlist?
+### The given content does not mention any limit to the number of people on the waitlist.
+
+### Human:
+### Assistant:
+
+What happens if I don't meet the baseline eligibility requirements?
+### If you don't meet the baseline eligibility requirements, it is not specified in the given content what the procedure or outcome would be.
+
+### Human:
+### Assistant:
+
+How long is the waitlist?
+### The length or duration of the waitlist is not mentioned in the provided content.
+
+### Human:
+### Assistant:
+
+Is there an estimated wait time on the waitlist?
+### The given content does not provide any information about the estimated wait time on the waitlist.
+
+### Human:
+### Assistant:
+
+What other requirements should I meet besides the baseline eligibility?
+### The additional requirements, if any, are not mentioned in the given content.
+
+### Human:
+### Assistant:
+
+Is the waitlist first-come-first-served?
+### No, the waitlist is not based on the order in which people apply, but rather on the level of need.

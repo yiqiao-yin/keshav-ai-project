@@ -1,0 +1,20 @@
+### Human: When can I call Towne House (BACS Wellness Center)?
+### Assistant: From Monday to Wednesday between 1 and 4 pm, you can call Towne House (BACS Wellness Center) at the number (510) 658-9480.
+### Human: What is the phone number for Towne House (BACS Wellness Center)?
+### Assistant: The phone number for Towne House (BACS Wellness Center) is (510) 658-9480.
+### Human: When is Towne House (BACS Wellness Center) open for calls?
+### Assistant: Towne House (BACS Wellness Center) is open for calls from Monday to Wednesday between 1 and 4 pm.
+### Human: How long is the phone line open at Towne House (BACS Wellness Center)?
+### Assistant: The phone line at Towne House (BACS Wellness Center) is open for 3 hours, from 1 to 4 pm.
+### Human: Can I make a call to Towne House (BACS Wellness Center) on Thursday?
+### Assistant: No, you can only call Towne House (BACS Wellness Center) from Monday to Wednesday.
+### Human: What is the name of the wellness center where I can make a call?
+### Assistant: The name of the wellness center where you can make a call is Towne House (BACS Wellness Center).
+### Human: Is the Towne House (BACS Wellness Center) phone line open in the mornings?
+### Assistant: No, the Towne House (BACS Wellness Center) phone line is only open from 1 to 4 pm.
+### Human: What days can I call Towne House (BACS Wellness Center)?
+### Assistant: You can call Towne House (BACS Wellness Center) from Monday to Wednesday.
+### Human: In what time range can I call Towne House (BACS Wellness Center)?
+### Assistant: You can call Towne House (BACS Wellness Center) between 1 and 4 pm.
+### Human: Where can I find the phone number for Towne House (BACS Wellness Center)?
+### Assistant: The phone number for Towne House (BACS Wellness Center) is (510) 658-9480.

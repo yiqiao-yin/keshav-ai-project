@@ -1,0 +1,4 @@
+### Human: What happens once a resident is settled in a safe environment?
+### Assistant: They are supported by a full range of services and training opportunities. 
+### Human: What do the services and training opportunities focus on?
+### Assistant: They focus on the job and life skills needed to transition toward long-term housing stability.

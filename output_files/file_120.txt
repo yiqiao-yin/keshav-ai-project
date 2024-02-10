@@ -1,0 +1,8 @@
+### Human: What are some of the features of the residential community-based activities?
+### Assistant: The residential community-based activities are youth-led, with a focus on restorative justice conflict resolution and community consensus decision making.
+
+### Human: Who was involved in creating a covenant of behavior for the Village?
+### Assistant: Former superintendent of Andover Public Schools, David Jackson, met regularly with YSA youth during the summer of 2019 to create a covenant of behavior for the Village.
+
+### Human: What was the basis for the covenant of behavior in the Village?
+### Assistant: The basis for the covenant of behavior in the Village is community accountability and restorative justice.

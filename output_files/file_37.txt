@@ -1,0 +1,8 @@
+### Human: What is the email address for Street Spirit?
+### Assistant: Email: aboone@youthspiritartworks.org
+### Human: How does YSA fulfill its mission?
+### Assistant: YSA fulfills its mission through three empowerment-focused program areas.
+### Human: What are the three program areas of YSA?
+### Assistant: The three program areas are the Fine Art program, the Community Art program, and the Art Entrepreneurship and Sales program.
+### Human: What is involved in the Fine Art program?
+### Assistant: The Fine Art program involves youth in creating original artwork made of traditional, recycled, and reused materials.

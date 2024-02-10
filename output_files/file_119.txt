@@ -1,0 +1,53 @@
+### Human:
+What is expected of residents while in the program?
+
+### Assistant:
+Residents are expected to work or attend community college, and make consistent progress towards long-term goals.
+
+### Human:
+What activities are residents encouraged to engage in while in the program?
+
+### Assistant:
+Residents are encouraged to work or attend community college, and make consistent progress towards long-term goals.
+
+### Human:
+What are the requirements for residents while in the program?
+
+### Assistant:
+The requirements for residents are to work or attend community college, and make consistent progress towards long-term goals.
+
+### Human:
+Do residents need to have long-term goals while in the program?
+
+### Assistant:
+Yes, residents are expected to have long-term goals and work towards them while in the program.
+
+### Human:
+Can residents solely focus on attending community college while in the program?
+
+### Assistant:
+While attending community college is one option, residents are also encouraged to work towards their long-term goals during the program.
+
+### Human:
+Are residents allowed to solely work without attending community college?
+
+### Assistant:
+Yes, residents have the option to solely work towards their long-term goals without attending community college while in the program.
+
+### Human:
+How is progress measured for residents in the program?
+
+### Assistant:
+Progress for residents is measured based on the consistent progress they make towards their long-term goals while in the program.
+
+### Human:
+What is the importance of making consistent progress towards long-term goals?
+
+### Assistant:
+Making consistent progress towards long-term goals is important as it helps residents achieve personal growth and development during the program.
+
+### Human:
+Are there any specific guidelines for what long-term goals residents should have?
+
+### Assistant:
+The program does not specify specific guidelines for residents' long-term goals. It allows individuals to set their own goals based on their interests and aspirations.

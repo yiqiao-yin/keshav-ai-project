@@ -1,0 +1,18 @@
+### Human: How will I know if I qualify to take a Crisis Assessment?
+### Assistant: If we receive a referral for you, we will reach out to you to ask you more questions, and to schedule an interview to see if you would be a good fit for our program.
+### Human: What are the options for taking the Crisis Assessment?
+### Assistant: You can see if you qualify to take a Crisis Assessment by following one of the options listed below: 1) Call or 2) In person
+### Human: Can I contact you directly to schedule an interview for the Crisis Assessment?
+### Assistant: If we receive a referral for you, we will reach out to you to ask you more questions, and to schedule an interview to see if you would be a good fit for our program.
+### Human: How will you assess if I am a good fit for the program?
+### Assistant: We will schedule an interview to see if you would be a good fit for our program.
+### Human: How can I qualify for the Crisis Assessment?
+### Assistant: If we receive a referral for you, we will reach out to you to ask you more questions, and to schedule an interview to see if you would be a good fit for our program.
+### Human: Can I schedule the Crisis Assessment online?
+### Assistant: If we receive a referral for you, we will reach out to you to ask you more questions, and to schedule an interview to see if you would be a good fit for our program.
+### Human: What are the modes of communication available for scheduling the Crisis Assessment?
+### Assistant: You can see if you qualify to take a Crisis Assessment by following one of the options listed below: 1) Call or 2) In person
+### Human: Is the Crisis Assessment mandatory?
+### Assistant: If we receive a referral for you, we will reach out to you to ask you more questions, and to schedule an interview to see if you would be a good fit for our program.
+### Human: Do I need a referral to take the Crisis Assessment?
+### Assistant: If we receive a referral for you, we will reach out to you to ask you more questions, and to schedule an interview to see if you would be a good fit for our program.

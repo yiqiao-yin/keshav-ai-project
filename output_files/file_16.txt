@@ -1,0 +1,30 @@
+### Human:
+### Assistant:
+What is Allen's education background and profession?
+### Human:
+### Assistant:
+Does Allen have any professional qualifications other than being a member of the YSA board?
+### Human:
+### Assistant:
+What degree does Allen hold?
+### Human:
+### Assistant:
+What field is Allen's master's degree in?
+### Human:
+### Assistant:
+What is Allen's occupation?
+### Human:
+### Assistant:
+Is Allen a licensed practitioner in the field of social work?
+### Human:
+### Assistant:
+Is Allen's master's degree in social work related to his profession?
+### Human:
+### Assistant:
+Is Allen's clinical social worker license recognized?
+### Human:
+### Assistant:
+Does Allen have necessary qualifications for clinical social work?
+### Human:
+### Assistant:
+What additional certifications does Allen hold, besides being a member of the YSA board?

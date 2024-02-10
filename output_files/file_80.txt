@@ -1,0 +1,14 @@
+### Human: What is the address of the Women's Daytime Drop-in Center?
+### Assistant: The address of the Women's Daytime Drop-in Center is 2218 Acton Street, Berkeley CA 94702.
+
+### Human: When is the Women's Daytime Drop-in Center open?
+### Assistant: The Women's Daytime Drop-in Center is open on Wednesdays at 11:00 am.
+
+### Human: Who is the Women's Daytime Drop-in Center available to?
+### Assistant: The Women's Daytime Drop-in Center is available only to women.
+
+### Human: How many homeless young people are there in Alameda County?
+### Assistant: There are upwards of 1,700 homeless young people in Alameda County.
+
+### Human: How many youth-designated beds are there in shelters and affordable housing in Alameda County?
+### Assistant: There are less than 36 youth-designated beds in shelters and affordable housing in Alameda County.

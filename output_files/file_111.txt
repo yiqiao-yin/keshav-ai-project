@@ -1,0 +1,18 @@
+### Human: How much money are you aiming to raise in Case Management funds?
+### Assistant: We are working to raise $100,000 in Case Management funds.
+### Human: Who are you trying to secure the funds from?
+### Assistant: We are trying to secure the funds from the City of Berkeley.
+### Human: How will HCEB's experience benefit both the Village and the community?
+### Assistant: HCEB's extensive supportive housing management experience will benefit both the Village and the community.
+### Human: Can you provide more information on HCEB's experience in supportive housing management?
+### Assistant: Yes, HCEB has extensive experience in supportive housing management.
+### Human: How does HCEB plan to utilize the funds for Case Management?
+### Assistant: HCEB plans to utilize the funds for Case Management purposes.
+### Human: What is the purpose of raising funds for Case Management?
+### Assistant: The purpose of raising funds for Case Management is to support the Village and the community.
+### Human: What are the specific goals of the fundraising efforts?
+### Assistant: The specific goal is to raise $100,000 for Case Management.
+### Human: Is this fundraising initiative specific to a particular project?
+### Assistant: Yes, this fundraising initiative is specific to Case Management.
+### Human: How will the raised funds be used to support Case Management?
+### Assistant: The raised funds will be used to support Case Management efforts.

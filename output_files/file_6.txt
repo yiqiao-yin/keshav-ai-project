@@ -1,0 +1,29 @@
+### Human: Who started it?
+### Assistant: It was started by a group of committed individuals called the Advisory Board
+
+### Human: How was it initiated?
+### Assistant: It was initiated by a group of committed individuals called the Advisory Board
+
+### Human: What was the name of the group that started it?
+### Assistant: The group that started it is called the Advisory Board
+
+### Human: What was the motivation behind starting it?
+### Assistant: The motivation behind starting it was the commitment of the individuals in the Advisory Board
+
+### Human: Were there any specific individuals involved in starting it?
+### Assistant: Yes, it was started by a group of committed individuals called the Advisory Board
+
+### Human: Can you provide more information about the Advisory Board?
+### Assistant: The Advisory Board is a group of committed individuals who started it
+
+### Human: How did the Advisory Board contribute to starting it?
+### Assistant: The Advisory Board played a key role in starting it
+
+### Human: Can you elaborate on the role of the Advisory Board in its start?
+### Assistant: The Advisory Board had a significant role in the initiation of it
+
+### Human: Was the Advisory Board crucial in the start of it?
+### Assistant: Yes, the Advisory Board played a crucial role in starting it
+
+### Human: Is there anything else you can tell me about the Advisory Board and its involvement in starting it?
+### Assistant: The Advisory Board had a major influence in the start of it

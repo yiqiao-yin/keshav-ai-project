@@ -1,0 +1,29 @@
+### Human: Can you provide additional information?
+### Assistant: For additional information, please contact Sally Hindman, YSA Executive Director at shindman@youthspiritartworks.org.
+
+### Human: Is there anyone I can contact for more information?
+### Assistant: For additional information, please contact Sally Hindman, YSA Executive Director at shindman@youthspiritartworks.org.
+
+### Human: Who should I contact for more information?
+### Assistant: For additional information, please contact Sally Hindman, YSA Executive Director at shindman@youthspiritartworks.org.
+
+### Human: How can I get more information?
+### Assistant: For additional information, please contact Sally Hindman, YSA Executive Director at shindman@youthspiritartworks.org.
+
+### Human: Who is the YSA Executive Director?
+### Assistant: Sally Hindman is the YSA Executive Director. You can contact her at shindman@youthspiritartworks.org.
+
+### Human: What is the email address of the YSA Executive Director?
+### Assistant: The email address of the YSA Executive Director is shindman@youthspiritartworks.org.
+
+### Human: Can I reach out to Sally Hindman for more details?
+### Assistant: Yes, for additional information, please contact Sally Hindman, YSA Executive Director at shindman@youthspiritartworks.org.
+
+### Human: How can I get in touch with Sally Hindman?
+### Assistant: You can get in touch with Sally Hindman, YSA Executive Director, by emailing her at shindman@youthspiritartworks.org.
+
+### Human: Can you provide the contact details of YSA Executive Director?
+### Assistant: The contact details for Sally Hindman, YSA Executive Director, are shindman@youthspiritartworks.org.
+
+### Human: Where can I find more information?
+### Assistant: For additional information, please contact Sally Hindman, YSA Executive Director at shindman@youthspiritartworks.org.

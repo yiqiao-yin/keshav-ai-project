@@ -1,0 +1,26 @@
+### Human: What does YSA track?
+### Assistant: YSA tracks impact and outcomes longitudinally, over a period of years.
+
+### Human: What has the project team documented?
+### Assistant: The project team has documented the process of planning, building, implementing, and operating the program and its impact.
+
+### Human: Why did the project team document the process?
+### Assistant: The project team documented the process to share the project model with other communities for replication.
+
+### Human: How long does YSA track impact and outcomes?
+### Assistant: YSA tracks impact and outcomes longitudinally, over a period of years.
+
+### Human: What can be done with the shared project model?
+### Assistant: The shared project model can be used by other communities for replication.
+
+### Human: What is the purpose of documenting the program's impact?
+### Assistant: The purpose of documenting the program's impact is to provide insights and knowledge for other communities.
+
+### Human: How does YSA track impact and outcomes?
+### Assistant: YSA tracks impact and outcomes longitudinally, over a period of years.
+
+### Human: What can other communities learn from the project model?
+### Assistant: Other communities can learn from the project model to replicate successful programs.
+
+### Human: What does YSA aim to accomplish with the tracking of impact and outcomes?
+### Assistant: YSA aims to understand the long-term impact and outcomes of the program.

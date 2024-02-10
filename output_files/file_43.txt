@@ -1,0 +1,29 @@
+### Human: What skills are taught in the Art Entrepreneurship and Sales program?
+### Assistant: Entrepreneurial and business skills are taught in the program.
+
+### Human: When did the youth initiate the community organizing campaign?
+### Assistant: The youth initiated the campaign in January of 2016.
+
+### Human: What was the purpose of the community organizing campaign?
+### Assistant: The purpose of the campaign was to build a Tiny House Village for homeless youth.
+
+### Human: Where was the Tiny House Village planned to be built?
+### Assistant: The Tiny House Village was planned to be built in the San Francisco East Bay Area.
+
+### Human: What is the Art Entrepreneurship and Sales program aimed at?
+### Assistant: The program is aimed at teaching youth entrepreneurial and business skills.
+
+### Human: What kind of skills do youth learn in the program?
+### Assistant: Youth learn entrepreneurial and business skills in the program.
+
+### Human: What did the youth at YSA do in January 2016?
+### Assistant: In January 2016, the youth at YSA initiated a community organizing campaign.
+
+### Human: What was the purpose of the community organizing campaign initiated by the youth at YSA?
+### Assistant: The purpose of the campaign was to build a Tiny House Village for homeless youth.
+
+### Human: Where was the Tiny House Village supposed to be built?
+### Assistant: The Tiny House Village was planned to be built in the San Francisco East Bay Area.
+
+### Human: When did the youth at YSA initiate the community organizing campaign?
+### Assistant: The youth at YSA initiated the campaign in January of 2016.

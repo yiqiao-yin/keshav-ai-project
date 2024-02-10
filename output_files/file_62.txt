@@ -1,0 +1,29 @@
+### Human: How can I involve my congregation?
+### Assistant: To get your congregation involved, email us.
+
+### Human: What is the focus of your work?
+### Assistant: Our work focuses on creating housing for at-risk youth.
+
+### Human: What is the name of your project?
+### Assistant: The name of our project is the Tiny House Empowerment Village.
+
+### Human: Does your work stop at creating housing?
+### Assistant: No, our work doesn't stop with the Tiny House Empowerment Village.
+
+### Human: How can I contact you?
+### Assistant: You can contact us by emailing us.
+
+### Human: Who should I contact to get involved?
+### Assistant: Contact us to get involved in our work.
+
+### Human: What is the purpose of the Tiny House Empowerment Village?
+### Assistant: The purpose of the Tiny House Empowerment Village is to create housing for at-risk youth.
+
+### Human: Can my congregation participate in your project?
+### Assistant: Yes, your congregation can participate in our project. Email us to get involved.
+
+### Human: Is the Tiny House Empowerment Village the only aspect of your work?
+### Assistant: No, creating the Tiny House Empowerment Village is one aspect of our work to support at-risk youth.
+
+### Human: How can I support your cause?
+### Assistant: You can support our cause by getting your congregation involved. Email us to find out how.

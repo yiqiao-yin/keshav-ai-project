@@ -1,0 +1,12 @@
+### Human: How many youth Tiny Houses are planned to be created over the next ten years?
+### Assistant: 25 youth Tiny Houses are planned to be created over the next ten years.
+
+### Human: How many beds will be available in the "co-op" houses?
+### Assistant: A total of 25 beds will be available in the five rented or purchased "co-op" houses.
+
+### Human: How many new units of youth housing are planned to be created as part of the affordable housing project?
+### Assistant: 50 new units of youth housing are planned to be created as part of the larger affordable housing project.
+
+### Human: What are the YSA youth seeking?
+### Assistant: The YSA youth are seeking people of all ages and abilities to help out at their build days.
+

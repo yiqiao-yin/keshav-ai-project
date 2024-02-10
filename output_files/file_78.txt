@@ -1,0 +1,29 @@
+### Human: What is the address for North County Housing Resource Center?
+### Assistant: The address for North County Housing Resource Center is 2809 Telegraph Ave, Berkeley CA 94705.
+
+### Human: When is North County Housing Resource Center open?
+### Assistant: North County Housing Resource Center is open on Monday, Wednesday, and Friday from 9:00 am to 12:00 pm.
+
+### Human: Can you provide the address for North County Housing Resource Center?
+### Assistant: The address for North County Housing Resource Center is 2809 Telegraph Ave, Berkeley CA 94705.
+
+### Human: What are the operating hours of North County Housing Resource Center?
+### Assistant: North County Housing Resource Center is open on Monday, Wednesday, and Friday from 9:00 am to 12:00 pm.
+
+### Human: Where is North County Housing Resource Center located?
+### Assistant: North County Housing Resource Center is located at 2809 Telegraph Ave, Berkeley CA 94705.
+
+### Human: What is the address of the North County Housing Resource Center?
+### Assistant: The address of the North County Housing Resource Center is 2809 Telegraph Ave, Berkeley CA 94705.
+
+### Human: When can I visit North County Housing Resource Center?
+### Assistant: You can visit North County Housing Resource Center on Monday, Wednesday, and Friday from 9:00 am to 12:00 pm.
+
+### Human: Can you tell me the location of North County Housing Resource Center?
+### Assistant: North County Housing Resource Center is located at 2809 Telegraph Ave, Berkeley CA 94705.
+
+### Human: What are the hours of operation for North County Housing Resource Center?
+### Assistant: North County Housing Resource Center is open on Monday, Wednesday, and Friday from 9:00 am to 12:00 pm.
+
+### Human: Can you provide the operating schedule for North County Housing Resource Center?
+### Assistant: The operating schedule for North County Housing Resource Center is Monday, Wednesday, and Friday from 9:00 am to 12:00 pm.

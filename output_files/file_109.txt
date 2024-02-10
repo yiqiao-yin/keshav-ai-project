@@ -1,0 +1,29 @@
+### Human: What is the mission of the Village?
+### Assistant: The Village's mission is to transition youth from homelessness/unstable housing to financial self-sufficiency and stability.
+
+### Human: How much money has Youth Spirit Artworks raised for tiny house construction?
+### Assistant: Youth Spirit Artworks has raised over $210,000 for tiny house construction since 2019.
+
+### Human: Who are the donors contributing to the funding of tiny house construction?
+### Assistant: The funding for tiny house construction comes from individual donors, private foundations, and corporations.
+
+### Human: How long has the Village been active in its mission?
+### Assistant: The Village has been active in its mission for over two years.
+
+### Human: What is the goal of Youth Spirit Artworks?
+### Assistant: The goal of Youth Spirit Artworks is to provide financial self-sufficiency and stability to homeless youth.
+
+### Human: How much has been raised in total for the Village's mission?
+### Assistant: The total raised for the Village's mission is over $210,000.
+
+### Human: Who supports the construction of tiny houses?
+### Assistant: The construction of tiny houses is supported by individual donors, private foundations, and corporations.
+
+### Human: How has the Village impacted the lives of youth?
+### Assistant: The Village has transitioned youth from homelessness/unstable housing to financial self-sufficiency and stability.
+
+### Human: When did Youth Spirit Artworks start raising funds for tiny house construction?
+### Assistant: Youth Spirit Artworks started raising funds for tiny house construction in 2019.
+
+### Human: What is the focus of the Village's work?
+### Assistant: The Village focuses on transitioning youth to financial self-sufficiency and stability through its programs.

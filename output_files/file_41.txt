@@ -1,0 +1,14 @@
+### Human:
+What skills are taught to youth in the Fine Art program?
+### Assistant:
+The Fine Art program teaches entrepreneurial and business skills to youth. 
+
+### Human:
+What is the focus of the Community Art program?
+### Assistant:
+The focus of the Community Art program is to engage young people as leaders in neighborhood revitalization through the creation of murals, tile projects, and other public art.
+
+### Human:
+What does the Art Entrepreneurship and Sales program help youth participate in?
+### Assistant:
+The Art Entrepreneurship and Sales program helps youth participate in the marketing and sales of original and reproduced art.

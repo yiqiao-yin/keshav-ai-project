@@ -1,0 +1,4 @@
+### Human: How important are the youth for our future?
+### Assistant: Our youth are the key to our future.
+### Human: What is the community's role in supporting the youth?
+### Assistant: Our community has a responsibility to support them.

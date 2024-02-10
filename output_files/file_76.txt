@@ -1,0 +1,18 @@
+### Human: Where can people without a phone call for assistance?
+### Assistant: People without a phone can call 2-1-1 from the Berkeley Drop-In Center and Women's Daytime Drop-in Center. 
+### Human: What is the address of the Berkeley Drop-In Center?
+### Assistant: The address of the Berkeley Drop-In Center is 3234 Adeline Street, Berkeley CA 94703.
+### Human: What is the address of the Women's Daytime Drop-in Center?
+### Assistant: The address of the Women's Daytime Drop-in Center is 2218 Acton Street, Berkeley CA 94702 (for women only).
+### Human: Can people go in person to see if they qualify for a Crisis Assessment?
+### Assistant: Yes, the first option to see if you qualify to take a Crisis Assessment is to go in person.
+### Human: Was this information helpful?
+### Assistant: Yes, it was helpful. 
+### Human: What other options are available for people without a phone?
+### Assistant: The available option is to call 2-1-1 from either of the mentioned locations.
+### Human: Are both drop-in centers located in Berkeley, California?
+### Assistant: Yes, both drop-in centers are located in Berkeley, California.
+### Human: Is the Women's Daytime Drop-in Center exclusively for women?
+### Assistant: Yes, the Women's Daytime Drop-in Center is exclusively for women.
+### Human: What is the phone number to call for assistance?
+### Assistant: The phone number to call for assistance is 2-1-1.

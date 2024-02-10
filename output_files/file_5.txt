@@ -1,0 +1,12 @@
+### Human: What are Sally's areas of expertise?
+### Assistant: Sally has a background in theology and art.
+### Human: What is the name of the homeless newspaper that Sally co-founded?
+### Assistant: Sally co-founded a homeless newspaper called Street Spirit.
+### Human: Was the founding of the homeless newspaper solely Sally's effort?
+### Assistant: No, YSA was not just Sally's effort.
+### Human: Are there any additional details about Sally's involvement in the homeless newspaper?
+### Assistant: No additional details are provided.
+### Human: What is the name of the homeless newspaper again?
+### Assistant: The homeless newspaper is called Street Spirit.
+### Human: Did Sally have any other areas of expertise?
+### Assistant: Yes, Sally has a background in theology and art.

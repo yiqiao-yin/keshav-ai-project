@@ -1,0 +1,26 @@
+### Human: What are residents accountable for in the program?
+### Assistant: Residents are accountable both to the program and to each other for helping all community members in achieving their goals.
+
+### Human: Why does YSA track progress toward key goals and objectives?
+### Assistant: YSA tracks progress toward key goals and objectives for several reasons.
+
+### Human: What are the reasons for tracking progress?
+### Assistant: The reasons for tracking progress include helping youth develop job-ready skills, improving health and wellness, setting and meeting educational and vocational goals, and progressing toward sustainable independent living.
+
+### Human: How does tracking progress help youth?
+### Assistant: Tracking progress helps youth develop and solidify the skills they need to be job-ready, improve their mental and physical health and wellness, set and achieve educational and vocational goals, and progress toward sustainable independent living.
+
+### Human: What are the benefits of tracking progress?
+### Assistant: The benefits of tracking progress include the development of job-ready skills, improvement in health and wellness, achievement of educational and vocational goals, and progress toward sustainable independent living.
+
+### Human: What is the objective of YSA's tracking progress?
+### Assistant: The objective of YSA's tracking progress is to help youth develop and solidify the skills they need to be job-ready, improve health and wellness, set and meet educational and vocational goals, and progress toward sustainable independent living.
+
+### Human: How does tracking progress improve health and wellness?
+### Assistant: Tracking progress towards key goals and objectives helps improve both mental and physical health and wellness.
+
+### Human: How does tracking progress contribute to sustainable independent living?
+### Assistant: Tracking progress helps youth progress towards sustainable independent living by providing guidance and support in achieving key goals and objectives.
+
+### Human: What is the role of residents in helping community members?
+### Assistant: Residents play a role in helping all community members achieve their goals by being accountable both to the program and to each other.

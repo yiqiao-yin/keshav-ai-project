@@ -1,0 +1,29 @@
+### Human: What programs are available for the youth in the Village?
+### Assistant: The youth in the Village have access to Youth Spirit Artworks' existing job training program, along with wrap-around social services and case management at YSA.
+
+### Human: How are the youth in the Village integrated into the job training program?
+### Assistant: The youth in the Village are fully integrated into Youth Spirit Artworks' existing job training program.
+
+### Human: What services do the youth in the Village have access to?
+### Assistant: The youth in the Village have access to wrap-around social services and case management at YSA.
+
+### Human: What organization provides the job training program?
+### Assistant: Youth Spirit Artworks provides the job training program for the youth in the Village.
+
+### Human: What is the purpose of the job training program?
+### Assistant: The purpose of the job training program is to empower and support the youth in the Village.
+
+### Human: How does the job training program benefit the youth in the Village?
+### Assistant: The job training program benefits the youth in the Village by providing them with skills and opportunities for personal and professional growth.
+
+### Human: What are wrap-around social services?
+### Assistant: Wrap-around social services refer to additional support and assistance provided to the youth in the Village, beyond the job training program.
+
+### Human: How does case management help the youth in the Village?
+### Assistant: Case management helps the youth in the Village by providing personalized support and guidance in accessing the necessary resources and services.
+
+### Human: What is the goal of Youth Spirit Artworks?
+### Assistant: The goal of Youth Spirit Artworks is to empower and uplift the youth in the Village through art, job training, and comprehensive support.
+
+### Human: How does Youth Spirit Artworks support the youth in the Village?
+### Assistant: Youth Spirit Artworks supports the youth in the Village through art programming, job training, and wrap-around social services.

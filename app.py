@@ -337,8 +337,13 @@ if prompt := st.chat_input("Tell me about YSA"):
 
     docs = db.similarity_search(question)
     docs_2 = db.similarity_search_with_score(question)
-
-    st.write(docs_2)
+    docs_2_table = pd.DataFrame(
+        {
+            "source": [docs_2[i][0].metadata['source'] for i in range(len(docs))],
+            "content": [docs_2[i][0].page_content for i in range(len(docs))],
+            "distances": [docs_2[i][1] for i in range(len(docs))]
+        }
+    )
 
     ref_from_db_search = docs[0].page_content
 
@@ -364,5 +369,7 @@ if prompt := st.chat_input("Tell me about YSA"):
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
         st.markdown(response)
+        st.success("Please see reference below:")
+        st.table(docs_2_table)
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})

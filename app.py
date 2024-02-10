@@ -5,8 +5,9 @@ import openai
 import pandas as pd
 import streamlit as st
 from langchain.document_loaders import TextLoader
-from langchain.embeddings.sentence_transformer import \
-    SentenceTransformerEmbeddings
+from sentence_transformers import SentenceTransformer
+# from langchain.embeddings.sentence_transformer import \
+#     SentenceTransformerEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
 from scipy.spatial.distance import cosine

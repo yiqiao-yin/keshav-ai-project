@@ -272,7 +272,8 @@ docs = text_splitter.split_documents(all_documents)
 
 # Create the open-source embedding function
 # embedding_function = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
-embedding_function = openai_text_embedding
+embedding_function = SentenceTransformer("all-MiniLM-L6-v2")
+# embedding_function = openai_text_embedding
 
 # Load the documents into Chroma
 db = Chroma.from_documents(docs, embedding_function)

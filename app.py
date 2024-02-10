@@ -314,9 +314,7 @@ if prompt := st.chat_input("Tell me about YSA"):
             "distances": [docs_2[i][1] for i in range(len(docs))],
         }
     )
-
-    ref_from_db_search = docs[0].page_content
-    ref_from_db_search = ["" + docs[i].page_content for i in range(len(docs))]
+    ref_from_db_search = docs_2_table["content"]
 
     engineered_prompt = f"""
         Based on the context: {ref_from_db_search},

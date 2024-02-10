@@ -306,6 +306,7 @@ if prompt := st.chat_input("Tell me about YSA"):
 
     # docs = db.similarity_search(question)
     docs_2 = db.similarity_search_with_score(question)
+    st.write(docs_2)
     docs_2_table = pd.DataFrame(
         {
             "source": [docs_2[i][0].metadata["source"] for i in range(len(docs))],

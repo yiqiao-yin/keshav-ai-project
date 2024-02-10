@@ -5,8 +5,7 @@ import openai
 import pandas as pd
 import streamlit as st
 from langchain.document_loaders import TextLoader
-from langchain.embeddings.sentence_transformer import \
-    SentenceTransformerEmbeddings
+from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
 from scipy.spatial.distance import cosine
@@ -305,8 +304,9 @@ if prompt := st.chat_input("Tell me about YSA"):
 
     question = prompt
 
-    docs = db.similarity_search(question)
+    # docs = db.similarity_search(question)
     docs_2 = db.similarity_search_with_score(question)
+    ref_from_db_search = " ".join([docs_2[i][0].page_content for i in range(len(docs))])
     docs_2_table = pd.DataFrame(
         {
             "source": [docs_2[i][0].metadata["source"] for i in range(len(docs))],
@@ -314,9 +314,6 @@ if prompt := st.chat_input("Tell me about YSA"):
             "distances": [docs_2[i][1] for i in range(len(docs))],
         }
     )
-
-    ref_from_db_search = docs[0].page_content
-    ref_from_db_search = ["" + docs[i].page_content for i in range(len(docs))]
 
     engineered_prompt = f"""
         Based on the context: {ref_from_db_search},
@@ -329,9 +326,12 @@ if prompt := st.chat_input("Tell me about YSA"):
 
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
-        with st.spinner('Wait for it...'):
+        with st.spinner("Wait for it..."):
             st.markdown(response)
             with st.expander("See reference:"):
                 st.table(docs_2_table)
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})
+    st.session_state.messages.append(
+        {"role": "assistant", "content": docs_2_table.to_json()}
+    )
